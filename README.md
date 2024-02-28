@@ -1,4 +1,4 @@
-This repository contains Demo data for <a href="https://thebootstrapthemes.com" target="_blank">TheBootstrapThemes</a>.
+This repository contains Demo data for <a href="https://thebootstrapthemes.com" target="_blank">TheBootstrapThemes</a> project.
 
 Themes that are currently supported:
 
