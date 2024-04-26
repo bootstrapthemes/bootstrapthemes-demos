@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.3" created="2024-02-22 15:39" -->
+	<!-- generator="WordPress/6.5.2" created="2024-04-26 12:17" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Travel Tour</title>
 	<link>https://thebootstrapthemes.com/previews/travel-tour</link>
 	<description>Just another Previews Sites site</description>
-	<pubDate>Thu, 22 Feb 2024 15:39:07 +0000</pubDate>
+	<pubDate>Fri, 26 Apr 2024 12:17:57 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://thebootstrapthemes.com/previews/</wp:base_site_url>
@@ -695,7 +695,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 	<wp:term><wp:term_id>37</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[Primary]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
 
 <image>
 	<url>https://thebootstrapthemes.com/previews/travel-tour/wp-content/uploads/sites/20/cropped-travel-logo-2.webp</url>
