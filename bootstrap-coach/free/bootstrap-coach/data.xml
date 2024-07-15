@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.3" created="2024-02-23 16:44" -->
+	<!-- generator="WordPress/6.5.5" created="2024-07-15 13:56" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Coach</title>
 	<link>https://thebootstrapthemes.com/previews/bootstrap-coach</link>
 	<description>Just another Previews Sites site</description>
-	<pubDate>Fri, 23 Feb 2024 16:44:12 +0000</pubDate>
+	<pubDate>Mon, 15 Jul 2024 13:56:24 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://thebootstrapthemes.com/previews/</wp:base_site_url>
@@ -69,7 +69,7 @@
 	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 		<item>
 		<title><![CDATA[testimonial1]]></title>
