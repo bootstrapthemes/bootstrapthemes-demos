@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.2" created="2024-04-26 12:17" -->
+	<!-- generator="WordPress/6.5.5" created="2024-08-15 11:51" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Travel Tour</title>
 	<link>https://thebootstrapthemes.com/previews/travel-tour</link>
 	<description>Just another Previews Sites site</description>
-	<pubDate>Fri, 26 Apr 2024 12:17:57 +0000</pubDate>
+	<pubDate>Thu, 15 Aug 2024 11:51:42 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://thebootstrapthemes.com/previews/</wp:base_site_url>
@@ -69,6 +69,10 @@
 		<wp:term_name><![CDATA[Adult]]></wp:term_name>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[is_primary_pricing_catgory]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[age_group]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
@@ -695,7 +699,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 	<wp:term><wp:term_id>37</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[Primary]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
 	<url>https://thebootstrapthemes.com/previews/travel-tour/wp-content/uploads/sites/20/cropped-travel-logo-2.webp</url>
@@ -1136,7 +1140,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[paraglider-1973020_1920(1)]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/10/24/skydiving/paraglider-1973020_19201/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/skydiving/paraglider-1973020_19201/</link>
 		<pubDate>Tue, 24 Oct 2017 05:50:06 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/wp-content/uploads/sites/20/paraglider-1973020_19201.webp</guid>
@@ -3230,7 +3234,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[greenland-81241_19201]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/10/24/mountain-climbing/greenland-81241_19201/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/mountain-climbing/greenland-81241_19201/</link>
 		<pubDate>Fri, 02 Apr 2021 06:18:03 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/wp-content/uploads/sites/20/greenland-81241_19201.webp</guid>
@@ -3263,7 +3267,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[desert-2549833_19201]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/10/24/exploring/desert-2549833_19201/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/exploring/desert-2549833_19201/</link>
 		<pubDate>Fri, 02 Apr 2021 06:18:41 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/wp-content/uploads/sites/20/desert-2549833_19201.webp</guid>
@@ -3296,7 +3300,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[scott-umstattd-871291-2048x1365]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/10/24/skydiving/scott-umstattd-871291-2048x1365/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/skydiving/scott-umstattd-871291-2048x1365/</link>
 		<pubDate>Fri, 02 Apr 2021 06:19:17 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/wp-content/uploads/sites/20/scott-umstattd-871291-2048x1365-1.webp</guid>
@@ -3329,7 +3333,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[clarisse-meyer-3043061]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/10/23/camping/clarisse-meyer-3043061/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/camping/clarisse-meyer-3043061/</link>
 		<pubDate>Fri, 02 Apr 2021 06:19:48 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/wp-content/uploads/sites/20/clarisse-meyer-3043061.webp</guid>
@@ -3362,7 +3366,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[soroush-karimi-2913531]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/10/23/city-sightseeing/soroush-karimi-2913531/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/city-sightseeing/soroush-karimi-2913531/</link>
 		<pubDate>Fri, 02 Apr 2021 06:20:10 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/wp-content/uploads/sites/20/soroush-karimi-2913531.webp</guid>
@@ -3395,7 +3399,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/11/17/328/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/328/</link>
 		<pubDate>Fri, 17 Nov 2017 05:36:40 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=328</guid>
@@ -3436,7 +3440,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/11/17/329/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/329/</link>
 		<pubDate>Fri, 17 Nov 2017 05:36:40 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=329</guid>
@@ -3477,7 +3481,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/11/17/330/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/330/</link>
 		<pubDate>Fri, 17 Nov 2017 05:36:40 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=330</guid>
@@ -3518,7 +3522,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/11/17/331/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/331/</link>
 		<pubDate>Fri, 17 Nov 2017 05:36:40 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=331</guid>
@@ -3559,7 +3563,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/11/17/341/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/341/</link>
 		<pubDate>Fri, 17 Nov 2017 08:22:58 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=341</guid>
@@ -3600,7 +3604,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/11/17/342/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/342/</link>
 		<pubDate>Fri, 17 Nov 2017 08:22:58 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=342</guid>
@@ -3641,7 +3645,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/11/17/343/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/343/</link>
 		<pubDate>Fri, 17 Nov 2017 08:22:58 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=343</guid>
@@ -3682,7 +3686,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/11/17/344/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/344/</link>
 		<pubDate>Fri, 17 Nov 2017 08:22:58 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=344</guid>
@@ -3723,7 +3727,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/11/17/351/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/351/</link>
 		<pubDate>Fri, 17 Nov 2017 08:25:38 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=351</guid>
@@ -3763,90 +3767,8 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/11/17/352/</link>
-		<pubDate>Fri, 17 Nov 2017 08:25:38 +0000</pubDate>
-		<dc:creator><![CDATA[techteam]]></dc:creator>
-		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=352</guid>
-		<description></description>
-		<content:encoded><![CDATA[The modern attitude to children emerged by the late 19th century; the Victorian middle and upper classes emphasized the role of the family and the sanctity of the child, – an attitude that has remained dominant in Western societies ever since. The genre of children’s literature took off, with a proliferation of humorous, child-oriented books attuned to the child’s imagination. Lewis Carroll’s fantasy Alice’s Adventures in Wonderland, published in 1865 in England, was a landmark in the genre; regarded as the first “English masterpiece written for children”, its publication opened the “First Golden Age” of children’s literature. The latter half of the 19th century saw the introduction of compulsory state schooling of children across Europe, which decisively removed children from the workplace into schools. The market economy of the 19th century enabled the concept of childhood as a time of fun of happiness. Factory-made dolls and doll houses delighted the girls and organized sports and activities were played by the boys. The Boy Scouts was founded by Sir Robert Baden-Powell in 1908,which provided young boys with outdoor activities aiming at developing character, citizenship, and personal fitness qualities.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>352</wp:post_id>
-		<wp:post_date><![CDATA[2017-11-17 14:10:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-11-17 08:25:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2017-11-17 14:10:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2017-11-17 08:25:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[352]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu-3"><![CDATA[Footer Menu 3]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[trip_types]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/11/17/353/</link>
-		<pubDate>Fri, 17 Nov 2017 08:25:38 +0000</pubDate>
-		<dc:creator><![CDATA[techteam]]></dc:creator>
-		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=353</guid>
-		<description></description>
-		<content:encoded><![CDATA[Companion dog usually describes a dog that does not work, providing only companionship as a pet, rather than usefulness by doing specific tasks. Many of the toy dog breeds are used only for the pleasure of their company, not as workers. Any dog can be a companion dog, and many working types such as retrievers are enjoyed primarily for their friendly nature as a family pet, as are mixed breed dogs. The American Kennel Club also offers a Companion dog title for judged dog obedience competitions. Breed groups argue that any dog in the working group type is inherently a “working” dog, while others argue that only a dog with an active occupation, either in a breed-related field (such as water trials for retrievers or herding trials for herding dogs) or in a breed-nonspecific field that requires training and discipline, such as being assistance dogs or participating in dog agility, can be considered a working dog. Dogs that have been chosen for traits that make a convenient pet are generally smaller breeds, and the tradition of keeping pretty dogs for no purpose other than to be court decorations stems back thousands of years to Chinese nobility. The Pekingese and the…]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>353</wp:post_id>
-		<wp:post_date><![CDATA[2017-11-17 14:10:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-11-17 08:25:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2017-11-17 14:10:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2017-11-17 08:25:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[353]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu-3"><![CDATA[Footer Menu 3]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[trip_types]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[rough-horn-2146179_19201]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/10/23/a-guide-to-rocky-mountain-vacations/rough-horn-2146179_19201/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/a-guide-to-rocky-mountain-vacations/rough-horn-2146179_19201/</link>
 		<pubDate>Fri, 02 Apr 2021 06:20:35 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/wp-content/uploads/sites/20/rough-horn-2146179_19201.webp</guid>
@@ -4154,8 +4076,116 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Booking #807]]></title>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/booking/booking/</link>
+		<pubDate>Tue, 21 May 2024 21:23:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/?p=807</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>807</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-21 21:23:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-21 21:23:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-21 21:23:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-21 21:23:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[booking]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[booking]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_booking_payment_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[pending]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_booking_payment_method]]></wp:meta_key>
+		<wp:meta_value><![CDATA[N/A]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[billing_info]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"fname";s:3:"ffd";s:5:"lname";s:2:"vd";s:5:"email";s:13:"hh@google.com";s:7:"address";s:4:"kadk";s:4:"city";s:3:"kah";s:7:"country";s:8:"Pakistan";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[cart_info]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:8:"currency";s:3:"USD";s:8:"subtotal";d:1800;s:5:"total";d:1800;s:12:"cart_partial";d:0;s:9:"discounts";a:0:{}s:10:"tax_amount";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[payments]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;i:809;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[paid_amount]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[due_amount]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1800]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_booking_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[pending]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[order_trips]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:29:"cart_269_713_2024-05-31_00-00";a:12:{s:2:"ID";i:269;s:5:"title";s:19:"Paragliding is Life";s:4:"cost";d:1800;s:12:"partial_cost";i:0;s:8:"datetime";s:10:"2024-05-31";s:18:"multi_pricing_used";b:1;s:3:"pax";a:1:{i:38;s:1:"1";}s:8:"pax_cost";a:1:{i:38;d:1800;}s:8:"has_time";b:0;s:12:"package_name";s:7:"Default";s:11:"trip_extras";a:0:{}s:14:"_prev_cart_key";s:29:"cart_269_713_2024-05-31_00-00";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_booking_setting]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:11:"place_order";a:14:{s:8:"traveler";s:1:"1";s:4:"cost";s:4:"1800";s:3:"due";s:1:"0";s:3:"tid";s:3:"269";s:5:"tname";s:19:"Paragliding is Life";s:8:"datetime";s:10:"2024-05-31";s:12:"datewithtime";s:0:"";s:7:"booking";a:6:{s:5:"fname";s:3:"ffd";s:5:"lname";s:2:"vd";s:5:"email";s:13:"hh@google.com";s:7:"address";s:4:"kadk";s:4:"city";s:3:"kah";s:7:"country";s:8:"Pakistan";}s:3:"tax";s:1:"0";s:9:"tduration";s:7:"15 days";s:8:"tenddate";s:10:"2024-06-15";s:5:"Adult";s:1:"1";s:12:"trip_package";s:7:"Default";s:14:"extra_services";a:0:{}}i:0;i:807;s:17:"additional_fields";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_booking_payment_gateway]]></wp:meta_key>
+		<wp:meta_value><![CDATA[N/A]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[additional_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[hh@google.com]]></title>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/customer/customer/</link>
+		<pubDate>Tue, 21 May 2024 21:23:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/?p=808</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>808</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-21 21:23:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-21 21:23:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-21 21:23:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-21 21:23:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[customer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[customer]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_booking_setting]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:11:"place_order";a:7:{s:3:"tid";s:3:"269";s:5:"tname";s:19:"Paragliding is Life";s:8:"datetime";s:10:"2024-05-31";s:4:"cost";s:4:"1800";s:3:"due";s:1:"0";s:8:"traveler";s:1:"1";s:7:"booking";a:6:{s:5:"fname";s:3:"ffd";s:5:"lname";s:2:"vd";s:5:"email";s:13:"hh@google.com";s:7:"address";s:4:"kadk";s:4:"city";s:3:"kah";s:7:"country";s:8:"Pakistan";}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_bookings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;i:807;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_booked_trip_setting]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:13:{s:8:"traveler";a:1:{i:1;s:1:"1";}s:4:"cost";a:1:{i:1;s:4:"1800";}s:3:"due";a:1:{i:1;s:1:"0";}s:3:"tid";a:1:{i:1;s:3:"269";}s:5:"tname";a:1:{i:1;s:19:"Paragliding is Life";}s:8:"datetime";a:1:{i:1;s:10:"2024-05-31";}s:12:"datewithtime";a:1:{i:1;s:0:"";}s:3:"tax";a:1:{i:1;s:1:"0";}s:9:"tduration";a:1:{i:1;s:7:"15 days";}s:8:"tenddate";a:1:{i:1;s:10:"2024-06-15";}s:5:"Adult";a:1:{i:1;s:1:"1";}s:12:"trip_package";a:1:{i:1;s:7:"Default";}s:14:"extra_services";a:1:{i:1;a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/115/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/115/</link>
 		<pubDate>Tue, 24 Oct 2017 08:30:24 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=115</guid>
@@ -4220,7 +4250,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/121/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/121/</link>
 		<pubDate>Tue, 24 Oct 2017 08:54:37 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=121</guid>
@@ -4285,7 +4315,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[Category Page]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/category-page-2/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/category-page-2/</link>
 		<pubDate>Tue, 24 Oct 2017 08:56:28 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=124</guid>
@@ -4350,7 +4380,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[Contact]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/131/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/131/</link>
 		<pubDate>Tue, 24 Oct 2017 09:14:52 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=131</guid>
@@ -4415,7 +4445,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/323/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/323/</link>
 		<pubDate>Fri, 17 Nov 2017 05:33:31 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=323</guid>
@@ -4480,7 +4510,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[Post Page]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/post-page/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/post-page/</link>
 		<pubDate>Fri, 17 Nov 2017 05:33:31 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=324</guid>
@@ -4545,7 +4575,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[Search Page]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/search-page/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/search-page/</link>
 		<pubDate>Fri, 17 Nov 2017 05:33:31 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=325</guid>
@@ -4610,7 +4640,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[404 Error Page]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/404-error-page/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/404-error-page/</link>
 		<pubDate>Fri, 17 Nov 2017 05:33:31 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=326</guid>
@@ -4675,7 +4705,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/327/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/327/</link>
 		<pubDate>Fri, 17 Nov 2017 05:34:13 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=327</guid>
@@ -4740,7 +4770,89 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/11/17/354/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/352/</link>
+		<pubDate>Fri, 17 Nov 2017 08:25:38 +0000</pubDate>
+		<dc:creator><![CDATA[techteam]]></dc:creator>
+		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=352</guid>
+		<description></description>
+		<content:encoded><![CDATA[The modern attitude to children emerged by the late 19th century; the Victorian middle and upper classes emphasized the role of the family and the sanctity of the child, – an attitude that has remained dominant in Western societies ever since. The genre of children’s literature took off, with a proliferation of humorous, child-oriented books attuned to the child’s imagination. Lewis Carroll’s fantasy Alice’s Adventures in Wonderland, published in 1865 in England, was a landmark in the genre; regarded as the first “English masterpiece written for children”, its publication opened the “First Golden Age” of children’s literature. The latter half of the 19th century saw the introduction of compulsory state schooling of children across Europe, which decisively removed children from the workplace into schools. The market economy of the 19th century enabled the concept of childhood as a time of fun of happiness. Factory-made dolls and doll houses delighted the girls and organized sports and activities were played by the boys. The Boy Scouts was founded by Sir Robert Baden-Powell in 1908,which provided young boys with outdoor activities aiming at developing character, citizenship, and personal fitness qualities.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>352</wp:post_id>
+		<wp:post_date><![CDATA[2017-11-17 14:10:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-11-17 08:25:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2017-11-17 14:10:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2017-11-17 08:25:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[352]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu-3"><![CDATA[Footer Menu 3]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[trip_types]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/353/</link>
+		<pubDate>Fri, 17 Nov 2017 08:25:38 +0000</pubDate>
+		<dc:creator><![CDATA[techteam]]></dc:creator>
+		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=353</guid>
+		<description></description>
+		<content:encoded><![CDATA[Companion dog usually describes a dog that does not work, providing only companionship as a pet, rather than usefulness by doing specific tasks. Many of the toy dog breeds are used only for the pleasure of their company, not as workers. Any dog can be a companion dog, and many working types such as retrievers are enjoyed primarily for their friendly nature as a family pet, as are mixed breed dogs. The American Kennel Club also offers a Companion dog title for judged dog obedience competitions. Breed groups argue that any dog in the working group type is inherently a “working” dog, while others argue that only a dog with an active occupation, either in a breed-related field (such as water trials for retrievers or herding trials for herding dogs) or in a breed-nonspecific field that requires training and discipline, such as being assistance dogs or participating in dog agility, can be considered a working dog. Dogs that have been chosen for traits that make a convenient pet are generally smaller breeds, and the tradition of keeping pretty dogs for no purpose other than to be court decorations stems back thousands of years to Chinese nobility. The Pekingese and the…]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>353</wp:post_id>
+		<wp:post_date><![CDATA[2017-11-17 14:10:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-11-17 08:25:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2017-11-17 14:10:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2017-11-17 08:25:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[353]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu-3"><![CDATA[Footer Menu 3]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[trip_types]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/354/</link>
 		<pubDate>Fri, 17 Nov 2017 08:25:38 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=354</guid>
@@ -4781,7 +4893,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/680/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/680/</link>
 		<pubDate>Tue, 06 Apr 2021 10:51:16 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/?p=680</guid>
@@ -4842,7 +4954,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/687/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/687/</link>
 		<pubDate>Fri, 14 May 2021 09:52:59 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/?p=687</guid>
@@ -4899,7 +5011,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/688/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/688/</link>
 		<pubDate>Fri, 14 May 2021 09:52:59 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/?p=688</guid>
@@ -4956,7 +5068,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/689/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/689/</link>
 		<pubDate>Fri, 14 May 2021 09:52:59 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/?p=689</guid>
@@ -5013,7 +5125,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/690/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/690/</link>
 		<pubDate>Fri, 14 May 2021 09:54:11 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/?p=690</guid>
@@ -5070,7 +5182,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/691/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/691/</link>
 		<pubDate>Fri, 14 May 2021 09:54:11 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/?p=691</guid>
@@ -5127,7 +5239,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/692/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/692/</link>
 		<pubDate>Fri, 14 May 2021 09:54:11 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/?p=692</guid>
@@ -5184,7 +5296,7 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/693/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/693/</link>
 		<pubDate>Fri, 14 May 2021 09:54:11 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/?p=693</guid>
@@ -5217,120 +5329,6 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[17]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[destination]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/694/</link>
-		<pubDate>Fri, 14 May 2021 09:54:11 +0000</pubDate>
-		<dc:creator><![CDATA[techteam]]></dc:creator>
-		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/?p=694</guid>
-		<description></description>
-		<content:encoded><![CDATA[The Maldives is a South Asian island country, located in the Indian Ocean, situated in the Arabian Sea. It lies southwest of Sri Lanka and India. The chain of 26 atolls stretches from Ihavandhippolhu Atoll in the north to the Addu City in the south. Comprising a territory spanning roughly 298 square kilometres (115 sq mi), the Maldives is one of the world’s most geographically dispersed countries, as well as the smallest Asian country by both land area and population, with around 427,756 inhabitants. Malé is the capital and most populated city, traditionally called the “King’s Island” for its central location. The Maldives archipelago is located atop the Chagos-Maldives-Laccadive Ridge, a vast submarine mountain range in the Indian Ocean, which also forms a terrestrial ecoregion, together with the Chagos and the Lakshadweep. With an average ground-level elevation of 1.5 metres (4 ft 11 in) above sea level, it is the world’s lowest country, with even its highest natural point being the lowest in the world, at 2.4 metres (7 ft 10 in). Due to the subsequent risks posed by rising sea-levels, the government pledged in 2009 to make the Maldives a carbon-neutral country by 2019.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>694</wp:post_id>
-		<wp:post_date><![CDATA[2021-05-14 09:54:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-05-14 09:54:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-05-14 09:54:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-14 09:54:11]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[694]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>15</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[688]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[18]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[destination]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2021/05/14/695/</link>
-		<pubDate>Fri, 14 May 2021 09:54:11 +0000</pubDate>
-		<dc:creator><![CDATA[techteam]]></dc:creator>
-		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/?p=695</guid>
-		<description></description>
-		<content:encoded><![CDATA[Paris is the capital and most populous city of France, with an administrative-limits area of 105 square kilometres (41 square miles) and a 2015 population of 2,229,621. The city is a commune and department, and the capital-heart of the 12,012-square-kilometre (4,638-square-mile) Île-de-France region (colloquially known as the ‘Paris Region’), whose 2016 population of 12,142,802 represents roughly 18 percent of the population of France.[5] By the 17th century, Paris had become one of Europe’s major centres of finance, commerce, fashion, science, and the arts, a position that it retains still today. The Paris Region had a GDP of €649.6 billion (US $763.4 billion) in 2014, accounting for 30.4 percent of the GDP of France. According to official estimates, in 2013-14 the Paris Region had the third-highest GDP in the world and the largest regional GDP in the EU.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>695</wp:post_id>
-		<wp:post_date><![CDATA[2021-05-14 09:54:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-05-14 09:54:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-05-14 09:54:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-14 09:54:11]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[695]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>16</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[688]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[23]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -5652,30 +5650,6 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[WP Travel Engine Dashboard]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/my-account/</link>
-		<pubDate>Mon, 18 May 2020 10:14:17 +0000</pubDate>
-		<dc:creator><![CDATA[techteam]]></dc:creator>
-		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/my-account/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[wp_travel_engine_dashboard]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>14</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-18 10:14:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-18 10:14:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-05-18 10:14:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-05-18 10:14:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[my-account]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title><![CDATA[Home]]></title>
 		<link>https://thebootstrapthemes.com/previews/travel-tour/</link>
 		<pubDate>Wed, 18 Oct 2017 08:47:49 +0000</pubDate>
@@ -5723,53 +5697,6 @@ The Christian Sabbath was just one day each week, but the preceding day (the Jew
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
-					<item>
-		<title><![CDATA[A Guide to Rocky Mountain vacations]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/10/23/a-guide-to-rocky-mountain-vacations/</link>
-		<pubDate>Mon, 23 Oct 2017 05:17:21 +0000</pubDate>
-		<dc:creator><![CDATA[techteam]]></dc:creator>
-		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=86</guid>
-		<description></description>
-		<content:encoded><![CDATA[The Rocky Mountain Trench, also known as The Valley of a Thousand Peaks or simply the Trench, is a large valley in the northern part of the Rocky Mountains. It is both visually and cartographically a striking physiographic feature extending approximately 1,600 km (1,000 mi) from Flathead Lake, Montana to the Liard River, just south of the British Columbia-Yukon border near Watson Lake, Yukon. The trench bottom is 3-16 km (2–10 miles) wide and ranges from 600-900 metres (2,000–3,000 feet) above sea level. The general orientation of the Trench is an almost uniform 150/330 degree geographic north vector and has become convenient for north/south aviators.
-
-Although some of its topography has been carved into glacial valleys, it is primarily a byproduct of faulting. The Trench separates the Rocky Mountains on its east from the Columbia Mountains and the Cassiar Mountains on its west. It also skirts part of the McGregor Plateau area of the Nechako Plateau sub-area of the Interior Plateau of British Columbia. It is up to 25 km wide, if measured peak-to-peak, and varies in valley relief, but is clearly visible by air and satellite/remote sensing and is easily discernible to those ascending any of the mountains or ridges lining it.
-
-The Trench is drained by four major river basins: the Columbia, Fraser, Peace and Liard. Two reservoirs of the Columbia River Treaty fill much of its length today - Lake Koocanusa and Lake Kinbasket. A further British Columbia power initiative created Lake Williston. Rivers that follow the Trench, at least in part, are the Kootenay River, the Columbia River, the Canoe River, the Flathead River, the Fraser River, the Parsnip River, the Finlay River, the Fox River, and the Kechika River. The North Fork of the Flathead River, flowing into Flathead Lake with the other branches of the Flathead River, is part of the Columbia River system. The Kechika is part of the Liard River system, and the Fox, Parsnip and Finlay Rivers and part of the Peace River system. The Canoe River is a short tributary of the Columbia system, draining into Kinbasket Lake, a reservoir on the Columbia River. The Kootenai River, however, does not fully follow the Trench but exits Canada southwest via Lake Koocanusa reservoir to the Libby Dam. The Kootenay (Canadian spelling) River is a tributary of the Columbia, joining the Columbia at Castlegar, BC after a meander through the USA as the Kootenai River (US spelling).
-
-For convenience the Rocky Mountain Trench may be divided into two sections, the Northern Rocky Mountain Trench and Southern Rocky Mountain Trench. The dividing point reflects the separation of north and easterly flows to the Arctic Ocean versus south and westerly flows to the Pacific Ocean. A break in the valley system at ~54°N near Prince George, British Columbia may be used for this purpose. The northern portion of the Trench is dominated by strike-slip faulting, while the southern part of the Trench was created by normal faults. Despite differences in timing and faulting styles of the northern and southern portions, they were aligned with each other because faulting for both was controlled by a pre-existing, west-facing, deep basement ramp with over 10 km of vertical offset.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>86</wp:post_id>
-		<wp:post_date><![CDATA[2017-10-23 11:02:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-10-23 05:17:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-02 06:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-02 06:20:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[a-guide-to-rocky-mountain-vacations]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="trekking"><![CDATA[Trekking]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_raratheme_view_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_bttk_view_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[12]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[636]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_blog_sidebar_widget_view_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[48]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 					<item>
 		<title><![CDATA[Style guide]]></title>
 		<link>https://thebootstrapthemes.com/previews/travel-tour/style-guide/</link>
@@ -6104,8 +6031,193 @@ Lorem Ipsum је једноставно модел текста који се к
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[]]></title>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/694/</link>
+		<pubDate>Fri, 14 May 2021 09:54:11 +0000</pubDate>
+		<dc:creator><![CDATA[techteam]]></dc:creator>
+		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/?p=694</guid>
+		<description></description>
+		<content:encoded><![CDATA[The Maldives is a South Asian island country, located in the Indian Ocean, situated in the Arabian Sea. It lies southwest of Sri Lanka and India. The chain of 26 atolls stretches from Ihavandhippolhu Atoll in the north to the Addu City in the south. Comprising a territory spanning roughly 298 square kilometres (115 sq mi), the Maldives is one of the world’s most geographically dispersed countries, as well as the smallest Asian country by both land area and population, with around 427,756 inhabitants. Malé is the capital and most populated city, traditionally called the “King’s Island” for its central location. The Maldives archipelago is located atop the Chagos-Maldives-Laccadive Ridge, a vast submarine mountain range in the Indian Ocean, which also forms a terrestrial ecoregion, together with the Chagos and the Lakshadweep. With an average ground-level elevation of 1.5 metres (4 ft 11 in) above sea level, it is the world’s lowest country, with even its highest natural point being the lowest in the world, at 2.4 metres (7 ft 10 in). Due to the subsequent risks posed by rising sea-levels, the government pledged in 2009 to make the Maldives a carbon-neutral country by 2019.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>694</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-14 09:54:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-14 09:54:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-14 09:54:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-14 09:54:11]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[694]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>15</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[688]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[destination]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/695/</link>
+		<pubDate>Fri, 14 May 2021 09:54:11 +0000</pubDate>
+		<dc:creator><![CDATA[techteam]]></dc:creator>
+		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/?p=695</guid>
+		<description></description>
+		<content:encoded><![CDATA[Paris is the capital and most populous city of France, with an administrative-limits area of 105 square kilometres (41 square miles) and a 2015 population of 2,229,621. The city is a commune and department, and the capital-heart of the 12,012-square-kilometre (4,638-square-mile) Île-de-France region (colloquially known as the ‘Paris Region’), whose 2016 population of 12,142,802 represents roughly 18 percent of the population of France.[5] By the 17th century, Paris had become one of Europe’s major centres of finance, commerce, fashion, science, and the arts, a position that it retains still today. The Paris Region had a GDP of €649.6 billion (US $763.4 billion) in 2014, accounting for 30.4 percent of the GDP of France. According to official estimates, in 2013-14 the Paris Region had the third-highest GDP in the world and the largest regional GDP in the EU.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>695</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-14 09:54:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-14 09:54:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-14 09:54:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-14 09:54:11]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[695]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>16</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[688]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[23]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[destination]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[WP Travel Engine Dashboard]]></title>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/my-account/</link>
+		<pubDate>Mon, 18 May 2020 10:14:17 +0000</pubDate>
+		<dc:creator><![CDATA[techteam]]></dc:creator>
+		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/my-account/</guid>
+		<description></description>
+		<content:encoded><![CDATA[[wp_travel_engine_dashboard]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>14</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-18 10:14:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-18 10:14:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-18 10:14:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-18 10:14:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[my-account]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[A Guide to Rocky Mountain vacations]]></title>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/a-guide-to-rocky-mountain-vacations/</link>
+		<pubDate>Mon, 23 Oct 2017 05:17:21 +0000</pubDate>
+		<dc:creator><![CDATA[techteam]]></dc:creator>
+		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=86</guid>
+		<description></description>
+		<content:encoded><![CDATA[The Rocky Mountain Trench, also known as The Valley of a Thousand Peaks or simply the Trench, is a large valley in the northern part of the Rocky Mountains. It is both visually and cartographically a striking physiographic feature extending approximately 1,600 km (1,000 mi) from Flathead Lake, Montana to the Liard River, just south of the British Columbia-Yukon border near Watson Lake, Yukon. The trench bottom is 3-16 km (2–10 miles) wide and ranges from 600-900 metres (2,000–3,000 feet) above sea level. The general orientation of the Trench is an almost uniform 150/330 degree geographic north vector and has become convenient for north/south aviators.
+
+Although some of its topography has been carved into glacial valleys, it is primarily a byproduct of faulting. The Trench separates the Rocky Mountains on its east from the Columbia Mountains and the Cassiar Mountains on its west. It also skirts part of the McGregor Plateau area of the Nechako Plateau sub-area of the Interior Plateau of British Columbia. It is up to 25 km wide, if measured peak-to-peak, and varies in valley relief, but is clearly visible by air and satellite/remote sensing and is easily discernible to those ascending any of the mountains or ridges lining it.
+
+The Trench is drained by four major river basins: the Columbia, Fraser, Peace and Liard. Two reservoirs of the Columbia River Treaty fill much of its length today - Lake Koocanusa and Lake Kinbasket. A further British Columbia power initiative created Lake Williston. Rivers that follow the Trench, at least in part, are the Kootenay River, the Columbia River, the Canoe River, the Flathead River, the Fraser River, the Parsnip River, the Finlay River, the Fox River, and the Kechika River. The North Fork of the Flathead River, flowing into Flathead Lake with the other branches of the Flathead River, is part of the Columbia River system. The Kechika is part of the Liard River system, and the Fox, Parsnip and Finlay Rivers and part of the Peace River system. The Canoe River is a short tributary of the Columbia system, draining into Kinbasket Lake, a reservoir on the Columbia River. The Kootenai River, however, does not fully follow the Trench but exits Canada southwest via Lake Koocanusa reservoir to the Libby Dam. The Kootenay (Canadian spelling) River is a tributary of the Columbia, joining the Columbia at Castlegar, BC after a meander through the USA as the Kootenai River (US spelling).
+
+For convenience the Rocky Mountain Trench may be divided into two sections, the Northern Rocky Mountain Trench and Southern Rocky Mountain Trench. The dividing point reflects the separation of north and easterly flows to the Arctic Ocean versus south and westerly flows to the Pacific Ocean. A break in the valley system at ~54°N near Prince George, British Columbia may be used for this purpose. The northern portion of the Trench is dominated by strike-slip faulting, while the southern part of the Trench was created by normal faults. Despite differences in timing and faulting styles of the northern and southern portions, they were aligned with each other because faulting for both was controlled by a pre-existing, west-facing, deep basement ramp with over 10 km of vertical offset.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>86</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-23 11:02:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-23 05:17:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-04-02 06:20:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-02 06:20:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[a-guide-to-rocky-mountain-vacations]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="trekking"><![CDATA[Trekking]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_raratheme_view_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_bttk_view_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[636]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_blog_sidebar_widget_view_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[48]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[City sightseeing Tours of World Heritage]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/10/23/city-sightseeing/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/city-sightseeing/</link>
 		<pubDate>Mon, 23 Oct 2017 06:10:03 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=89</guid>
@@ -6156,7 +6268,7 @@ For convenience the Rocky Mountain Trench may be divided into two sections, the 
 							</item>
 					<item>
 		<title><![CDATA[Camping in Peru]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/10/23/camping/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/camping/</link>
 		<pubDate>Mon, 23 Oct 2017 06:20:35 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=92</guid>
@@ -6205,7 +6317,7 @@ There is no universally held definition of what is and what is not camping. Fund
 							</item>
 					<item>
 		<title><![CDATA[Skydiving from Mt. Everest]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/10/24/skydiving/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/skydiving/</link>
 		<pubDate>Tue, 24 Oct 2017 00:06:45 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=96</guid>
@@ -6264,7 +6376,7 @@ Camping describes a range of activities and approaches to outdoor accommodation.
 							</item>
 					<item>
 		<title><![CDATA[Exploring Untravelled Destinations]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/10/24/exploring/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/exploring/</link>
 		<pubDate>Tue, 24 Oct 2017 04:44:51 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=132</guid>
@@ -6315,7 +6427,7 @@ During the 2nd century BC, the Han dynasty explored much of the Eastern Northern
 							</item>
 					<item>
 		<title><![CDATA[Mountain Climbing in the Himalayas]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/2017/10/24/mountain-climbing/</link>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/mountain-climbing/</link>
 		<pubDate>Tue, 24 Oct 2017 04:47:30 +0000</pubDate>
 		<dc:creator><![CDATA[techteam]]></dc:creator>
 		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?p=135</guid>
@@ -7404,273 +7516,6 @@ It really depends on you. Is it your first time in Nepal? How confident are you 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Chulu Peak Climbing]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/trip/chulu-peak-climbing/</link>
-		<pubDate>Thu, 16 Nov 2017 04:23:17 +0000</pubDate>
-		<dc:creator><![CDATA[techteam]]></dc:creator>
-		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?post_type=trip&#038;p=266</guid>
-		<description></description>
-		<content:encoded><![CDATA[The Annapurna Circuit is a trek within the Annapurna mountain range of central Nepal.The total length of the route varies between 160–230 km (100-145 mi), depending on where motor transportation is used and where the trek is ended. This trek crosses two different river valleys and encircles the Annapurna massif. The path reaches its highest point at Thorung La pass (5416m/17769 ft), touching the edge of the Tibetan plateau.
-
-Practically all trekkers hike the route anticlockwise, as this way the daily altitude gain is slower, and crossing the high Thorong La pass is easier and safer. The mountain scenery, seen at close quarters includes the Annapurna Massif (Annapurna I-IV), Dhaulagiri, Machhapuchhre, Manaslu, Gangapurna, Tilicho Peak, Pisang Peak, and Paungda Danda. Numerous other peaks of 6000-8000m in elevation rise from the Annapurna range. The trek begins at Besisahar or Bhulbhule in the Marshyangdi river valley and concludes in the Kali Gandaki Gorge. Besisahar can be reached after a seven-hour drive from Kathmandu.
-
-&nbsp;]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>266</wp:post_id>
-		<wp:post_date><![CDATA[2017-11-16 10:08:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-11-16 04:23:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2017-11-16 10:08:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2017-11-16 04:23:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[chulu-peak-climbing]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[trip]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="destination" nicename="bhutan"><![CDATA[Bhutan]]></category>
-		<category domain="trip_types" nicename="budget-travel"><![CDATA[Budget travel]]></category>
-		<category domain="trip_types" nicename="child-friendly"><![CDATA[Child-friendly]]></category>
-		<category domain="trip_types" nicename="cultural"><![CDATA[Cultural]]></category>
-		<category domain="trip_types" nicename="dog-friendly"><![CDATA[Dog-friendly]]></category>
-		<category domain="trip_types" nicename="home-stay"><![CDATA[Home stay]]></category>
-		<category domain="destination" nicename="india"><![CDATA[India]]></category>
-		<category domain="destination" nicename="japan"><![CDATA[Japan]]></category>
-		<category domain="destination" nicename="london"><![CDATA[London]]></category>
-		<category domain="destination" nicename="maldives"><![CDATA[Maldives]]></category>
-		<category domain="destination" nicename="morroco"><![CDATA[Morroco]]></category>
-		<category domain="trip_types" nicename="nature-walk"><![CDATA[Nature Walk]]></category>
-		<category domain="destination" nicename="nepal"><![CDATA[Nepal]]></category>
-		<category domain="destination" nicename="paris"><![CDATA[Paris]]></category>
-		<category domain="activities" nicename="peak-climbing"><![CDATA[Peak Climbing]]></category>
-		<category domain="destination" nicename="prague"><![CDATA[Prague]]></category>
-		<category domain="destination" nicename="san-francisco"><![CDATA[San Francisco]]></category>
-		<category domain="destination" nicename="tibet"><![CDATA[Tibet]]></category>
-		<category domain="destination" nicename="venice"><![CDATA[Venice]]></category>
-		<category domain="trip_types" nicename="volunteer-trips"><![CDATA[Volunteer trips]]></category>
-		<category domain="trip_types" nicename="weekend-trips"><![CDATA[Weekend Trips]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[433]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp_travel_engine_setting]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:10:{s:15:"trip_prev_price";s:4:"1950";s:4:"sale";s:1:"1";s:10:"trip_price";s:4:"1700";s:13:"trip_duration";s:2:"10";s:20:"trip_duration_nights";s:1:"9";s:10:"trip_facts";a:5:{s:8:"field_id";a:3:{i:1;s:14:"transportation";i:4;s:6:"Season";i:3;s:8:"altitude";}s:10:"field_type";a:3:{i:1;s:4:"text";i:4;s:6:"select";i:3;s:4:"text";}i:1;a:1:{i:1;s:11:"1-12 people";}i:4;a:1:{i:4;s:15:"5,554m/18,192ft";}i:3;a:1:{i:3;s:8:"Moderate";}}s:11:"tab_content";a:1:{s:10:"1_wpeditor";s:1190:"Travel is the movement of people between relatively distant geographical locations, and can involve travel by foot, bicycle, automobile, train, boat, bus, airplane, or other means, with or without luggage, and can be one way or round trip. Travel can also include relatively short stays between successive movements.
-
-The origin of the word &quot;travel&quot; is most likely lost to history. The term &quot;travel&quot; may originate from the Old French word travail, which means 'work'. According to the Merriam Webster dictionary, the first known use of the word travel was in the 14th century.
-
-It also states that the word comes from Middle English travailen, travelen (which means to torment, labor, strive, journey) and earlier from Old French travailler (which means to work strenuously, toil). In English we still occasionally use the words &quot;travail&quot;, which means struggle. According to Simon Winchester in his book The Best Travelers' Tales (2004), the words &quot;travel&quot; and &quot;travail&quot; both share an even more ancient root: a Roman instrument of torture called the tripalium (in Latin it means &quot;three stakes&quot;, as in to impale).
-
-&amp;nbsp;";}s:9:"itinerary";a:3:{s:15:"itinerary_title";a:7:{i:1;s:39:"Kathmandu to Pokhara (By flight or Bus)";i:2;s:35:"Drive to Nayapul and trek to Ulleri";i:3;s:17:"Trek to Ghorepani";i:4;s:75:"Early trek to Poon Hill for Sunrise, Back to Ghorepani and Trek to Tadapani";i:5;s:20:"Tadapani to Chomrong";i:6;s:26:"Chomrong to Dobhan (Dovan)";i:7;s:16:"Dovan to Deurali";}s:17:"itinerary_content";a:7:{i:1;s:258:"Arrive at Tribhuwan International Airport, Kathmandu, you are welcomed by the team and then you will be transferred to your hotel. This trail goes through Ghorepani Poon Hill. Normally, the trek starts like Phokhara to Nayapul and ends like Phedi to Pokhara.";i:2;s:335:"While early travel tended to be slower, more dangerous, and more dominated by trade and migration, cultural and technological advances over many years have tended to mean that travel has become easier and more accessible. The evolution of technology in such diverse fields as horse tack and bullet trains has contributed to this trend.";i:3;s:369:"The Palace of Fifty five Windows: This magnificent palace was built during the reign of King Yakshya Malla in A.D. 1427 and was subsequently remodeled by King Bhupatindra Malla in the seventeenth century. Among the brick walls with their gracious setting and sculptural design, is a balcony with Fifty five Windows, considered to be a unique masterpiece of woodcarving.";i:4;s:312:"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
-
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia.";i:5;s:220:"Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.";i:6;s:168:"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.";i:7;s:258:"When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek.";}s:23:"itinerary_content_inner";a:7:{i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:0:"";i:5;s:0:"";i:6;s:0:"";i:7;s:0:"";}}s:4:"cost";a:6:{s:14:"includes_title";s:22:"The Trip Cost Includes";s:13:"cost_includes";s:710:"Pick-up or Drop-off service from and to Airport(in our own vehicle)
-    Transportation to and from!!
-    Food all along the trip(Breakfast, Lunch, Dinner and a cup of coffee or tea) and accommodations during the trip in hotels with family environment
-    Transportation, food, accommodation and insurance of Guide during the trip 
-    Down jacket, all-season sleeping bag, duffel bag and trekking map(in case if you don’t have your own. Down jacket, sleeping bag and duffel bag must be returned after completion of the trip)
-    First Aid Medical Kit(Your guide will carry the Medical Kit but we also advise to bring yourself for your own use, as far as possible)
-All the required permits and paperwork";s:17:"cost_includes_val";s:845:"&lt;li&gt;Pick-up or Drop-off service from and to Airport(in our own vehicle)&lt;/li&gt;&lt;li&gt;    Transportation to and from!!&lt;/li&gt;&lt;li&gt;    Food all along the trip(Breakfast, Lunch, Dinner and a cup of coffee or tea) and accommodations during the trip in hotels with family environment&lt;/li&gt;&lt;li&gt;    Transportation, food, accommodation and insurance of Guide during the trip &lt;/li&gt;&lt;li&gt;    Down jacket, all-season sleeping bag, duffel bag and trekking map(in case if you don’t have your own. Down jacket, sleeping bag and duffel bag must be returned after completion of the trip)&lt;/li&gt;&lt;li&gt;    First Aid Medical Kit(Your guide will carry the Medical Kit but we also advise to bring yourself for your own use, as far as possible)&lt;/li&gt;&lt;li&gt;All the required permits and paperwork&lt;/li&gt;";s:14:"excludes_title";s:22:"The Trip Cost Excludes";s:13:"cost_excludes";s:424:"International Airfare
-    Visa Charges
-    Hotel Expenses(In Kathmandu, some packages do include hotel expenses)
-    Your travel and medical insurance 
-    Personal Expenses such as shopping, bar bills, hot shower, telephone, laundry, titbits etc
-    Food and accommodations in Kathmandu  
-    Services not mentioned or not promised by the agent/agency
-    Emergency expenses such as expenses on chartered helicopter.";s:17:"cost_excludes_val";s:582:"&lt;li&gt;    International Airfare&lt;/li&gt;&lt;li&gt;    Visa Charges&lt;/li&gt;&lt;li&gt;    Hotel Expenses(In Kathmandu, some packages do include hotel expenses)&lt;/li&gt;&lt;li&gt;    Your travel and medical insurance &lt;/li&gt;&lt;li&gt;    Personal Expenses such as shopping, bar bills, hot shower, telephone, laundry, titbits etc&lt;/li&gt;&lt;li&gt;    Food and accommodations in Kathmandu  &lt;/li&gt;&lt;li&gt;    Services not mentioned or not promised by the agent/agency&lt;/li&gt;&lt;li&gt;    Emergency expenses such as expenses on chartered helicopter.&lt;/li&gt;";}s:3:"faq";a:3:{s:5:"title";s:26:"Frequently asked Questions";s:9:"faq_title";a:8:{i:1;s:40:"How fit do I need to be to do this trek?";i:2;s:70:"How long do we walk every day when doing Annapurna Base Camp trekking?";i:3;s:50:"What is the highest altitude reached in this trek?";i:4;s:54:"What about battery charging and hot shower facilities?";i:5;s:49:"Are there ATMs on the way to Annapurna Base Camp?";i:6;s:27:"What about internet access?";i:7;s:80:"Is it necessary to hire Guides/trekking agency for Annapurna Base Camp trekking?";i:8;s:36:"How much do guides and porters cost?";}s:11:"faq_content";a:8:{i:1;s:265:"Annapurna Base Camp is a Grade B or a moderately difficult trekking route. So any fit person can do this trek, even if you do not have any previous experience. You should be aware of what to expect and mentally prepare for it. Then, as long as you will to, you can.";i:2;s:131:"On average, you walk about 4 to 6 hours per day. One or two days can be as less as 3hrs and one or two days can be as long as 7hrs.";i:3;s:131:"The highest altitude reached is 4190m. This is the elevation of Annapurna Base Camp. ABC is the highest we will climb in this trek.";i:4;s:230:"Yes, you can charge batteries en route. Charger should be brought. There are hot shower facilities as well. You may have to pay certain amount for both ($1-$2). Negotiate. Also, hot water facility could be free at lower elevation.";i:5;s:240:"No. There are no ATMs on this trek route. You will have to draw enough cash in Pokhara or Kathmandu. There are a number of ATMs in these cities. Everything is paid in Nepali rupees. So money should be exchanged before the start of the trek.";i:6;s:191:"Yes. Internet can be accessed in most places. Sometimes, there might be some technical problems. Internet in Nepal is not as fast as you are used to and at times you can just lose connection.";i:7;s:547:"Not really. It depends on you. If you want, ABC trekking can be done independently. You could hire a guide and a porter by yourself instead of going through an agency or not hire a guide at all. Although, not having a guide can be a little problematic during off season.
-
-It really depends on you. Is it your first time in Nepal? How confident are you of being able to find your way around? How pressed on time are you? If you go through an agency, it will be costlier but everything will be planned. You will only have to come, trek and return.";i:8;s:103:"For Annapurna region, pay for guides range from $20 to $30 per day and porters take $15 to $25 per day.";}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp_travel_engine_setting_trip_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1700]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp_travel_engine_setting_trip_duration]]></wp:meta_key>
-		<wp:meta_value><![CDATA[240]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpte_gallery_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:6:"enable";s:1:"1";i:0;s:3:"248";i:1;s:3:"250";i:2;s:2:"90";i:3;s:3:"247";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dp_original]]></wp:meta_key>
-		<wp:meta_value><![CDATA[260]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[chulu-east-peak-climbing-2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp_travel_engine_setting_trip_actual_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1950]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[packages_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;i:711;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[trip_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.0.0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_s_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1950]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_s_duration]]></wp:meta_key>
-		<wp:meta_value><![CDATA[240]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_s_min_pax]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_s_max_pax]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_s_has_sale]]></wp:meta_key>
-		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_booking_inventory]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Tilicho lake Trek]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/trip/tilicho-lake-trek/</link>
-		<pubDate>Thu, 16 Nov 2017 04:22:22 +0000</pubDate>
-		<dc:creator><![CDATA[techteam]]></dc:creator>
-		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?post_type=trip&#038;p=267</guid>
-		<description></description>
-		<content:encoded><![CDATA[The Annapurna Circuit is a trek within the Annapurna mountain range of central Nepal.The total length of the route varies between 160–230 km (100-145 mi), depending on where motor transportation is used and where the trek is ended. This trek crosses two different river valleys and encircles the Annapurna massif. The path reaches its highest point at Thorung La pass (5416m/17769 ft), touching the edge of the Tibetan plateau.
-
-Practically all trekkers hike the route anticlockwise, as this way the daily altitude gain is slower, and crossing the high Thorong La pass is easier and safer. The mountain scenery, seen at close quarters includes the Annapurna Massif (Annapurna I-IV), Dhaulagiri, Machhapuchhre, Manaslu, Gangapurna, Tilicho Peak, Pisang Peak, and Paungda Danda. Numerous other peaks of 6000-8000m in elevation rise from the Annapurna range. The trek begins at Besisahar or Bhulbhule in the Marshyangdi river valley and concludes in the Kali Gandaki Gorge. Besisahar can be reached after a seven-hour drive from Kathmandu.
-
-&nbsp;]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>267</wp:post_id>
-		<wp:post_date><![CDATA[2017-11-16 10:07:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-11-16 04:22:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2017-11-16 10:07:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2017-11-16 04:22:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[tilicho-lake-trek]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[trip]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="destination" nicename="bhutan"><![CDATA[Bhutan]]></category>
-		<category domain="trip_types" nicename="budget-travel"><![CDATA[Budget travel]]></category>
-		<category domain="trip_types" nicename="child-friendly"><![CDATA[Child-friendly]]></category>
-		<category domain="trip_types" nicename="cultural"><![CDATA[Cultural]]></category>
-		<category domain="activities" nicename="cultur-tours"><![CDATA[Cultural Tours]]></category>
-		<category domain="trip_types" nicename="dog-friendly"><![CDATA[Dog-friendly]]></category>
-		<category domain="trip_types" nicename="home-stay"><![CDATA[Home stay]]></category>
-		<category domain="destination" nicename="india"><![CDATA[India]]></category>
-		<category domain="destination" nicename="japan"><![CDATA[Japan]]></category>
-		<category domain="activities" nicename="kayaking"><![CDATA[Kayaking]]></category>
-		<category domain="destination" nicename="london"><![CDATA[London]]></category>
-		<category domain="destination" nicename="maldives"><![CDATA[Maldives]]></category>
-		<category domain="destination" nicename="morroco"><![CDATA[Morroco]]></category>
-		<category domain="trip_types" nicename="nature-walk"><![CDATA[Nature Walk]]></category>
-		<category domain="destination" nicename="nepal"><![CDATA[Nepal]]></category>
-		<category domain="destination" nicename="paris"><![CDATA[Paris]]></category>
-		<category domain="destination" nicename="prague"><![CDATA[Prague]]></category>
-		<category domain="activities" nicename="river-rafting"><![CDATA[River Rafting]]></category>
-		<category domain="activities" nicename="road-cycling"><![CDATA[Road Cycling]]></category>
-		<category domain="destination" nicename="san-francisco"><![CDATA[San Francisco]]></category>
-		<category domain="destination" nicename="tibet"><![CDATA[Tibet]]></category>
-		<category domain="destination" nicename="venice"><![CDATA[Venice]]></category>
-		<category domain="trip_types" nicename="volunteer-trips"><![CDATA[Volunteer trips]]></category>
-		<category domain="trip_types" nicename="weekend-trips"><![CDATA[Weekend Trips]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[241]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp_travel_engine_setting]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:10:{s:15:"trip_prev_price";s:4:"1700";s:4:"sale";s:1:"1";s:10:"trip_price";s:4:"1500";s:13:"trip_duration";s:2:"11";s:20:"trip_duration_nights";s:2:"10";s:10:"trip_facts";a:10:{s:8:"field_id";a:8:{i:1;s:10:"Group Size";i:4;s:13:"Max. Altitude";i:7;s:11:"Destination";i:3;s:10:"Difficulty";i:8;s:10:"Arrival on";i:11;s:14:"Departure from";i:9;s:5:"Meals";i:10;s:14:"Accommodation:";}s:10:"field_type";a:8:{i:1;s:4:"text";i:4;s:4:"text";i:7;s:4:"text";i:3;s:4:"text";i:8;s:4:"text";i:11;s:4:"text";i:9;s:4:"text";i:10;s:4:"text";}i:1;a:1:{i:1;s:11:"1-12 people";}i:4;a:1:{i:4;s:15:"5,554m/18,192ft";}i:7;a:1:{i:7;s:5:"Nepal";}i:3;a:1:{i:3;s:8:"Moderate";}i:8;a:1:{i:8;s:16:"Kathmandu, Nepal";}i:11;a:1:{i:11;s:16:"Kathmandu, Nepal";}i:9;a:1:{i:9;s:52:"Breakfast in Kathmandu and all meals during the trek";}i:10;a:1:{i:10;s:61:"Hotel accomodation in Kathmandu and teahouses during the trek";}}s:11:"tab_content";a:1:{s:10:"1_wpeditor";s:1190:"Travel is the movement of people between relatively distant geographical locations, and can involve travel by foot, bicycle, automobile, train, boat, bus, airplane, or other means, with or without luggage, and can be one way or round trip. Travel can also include relatively short stays between successive movements.
-
-The origin of the word &quot;travel&quot; is most likely lost to history. The term &quot;travel&quot; may originate from the Old French word travail, which means 'work'. According to the Merriam Webster dictionary, the first known use of the word travel was in the 14th century.
-
-It also states that the word comes from Middle English travailen, travelen (which means to torment, labor, strive, journey) and earlier from Old French travailler (which means to work strenuously, toil). In English we still occasionally use the words &quot;travail&quot;, which means struggle. According to Simon Winchester in his book The Best Travelers' Tales (2004), the words &quot;travel&quot; and &quot;travail&quot; both share an even more ancient root: a Roman instrument of torture called the tripalium (in Latin it means &quot;three stakes&quot;, as in to impale).
-
-&amp;nbsp;";}s:9:"itinerary";a:2:{s:15:"itinerary_title";a:7:{i:1;s:39:"Kathmandu to Pokhara (By flight or Bus)";i:2;s:35:"Drive to Nayapul and trek to Ulleri";i:3;s:17:"Trek to Ghorepani";i:4;s:75:"Early trek to Poon Hill for Sunrise, Back to Ghorepani and Trek to Tadapani";i:5;s:20:"Tadapani to Chomrong";i:6;s:26:"Chomrong to Dobhan (Dovan)";i:7;s:16:"Dovan to Deurali";}s:17:"itinerary_content";a:7:{i:1;s:258:"Arrive at Tribhuwan International Airport, Kathmandu, you are welcomed by the team and then you will be transferred to your hotel. This trail goes through Ghorepani Poon Hill. Normally, the trek starts like Phokhara to Nayapul and ends like Phedi to Pokhara.";i:2;s:335:"While early travel tended to be slower, more dangerous, and more dominated by trade and migration, cultural and technological advances over many years have tended to mean that travel has become easier and more accessible. The evolution of technology in such diverse fields as horse tack and bullet trains has contributed to this trend.";i:3;s:369:"The Palace of Fifty five Windows: This magnificent palace was built during the reign of King Yakshya Malla in A.D. 1427 and was subsequently remodeled by King Bhupatindra Malla in the seventeenth century. Among the brick walls with their gracious setting and sculptural design, is a balcony with Fifty five Windows, considered to be a unique masterpiece of woodcarving.";i:4;s:312:"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
-
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia.";i:5;s:220:"Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.";i:6;s:168:"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.";i:7;s:258:"When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek.";}}s:4:"cost";a:6:{s:14:"includes_title";s:22:"The Trip Cost Includes";s:13:"cost_includes";s:710:"Pick-up or Drop-off service from and to Airport(in our own vehicle)
-    Transportation to and from!!
-    Food all along the trip(Breakfast, Lunch, Dinner and a cup of coffee or tea) and accommodations during the trip in hotels with family environment
-    Transportation, food, accommodation and insurance of Guide during the trip 
-    Down jacket, all-season sleeping bag, duffel bag and trekking map(in case if you don’t have your own. Down jacket, sleeping bag and duffel bag must be returned after completion of the trip)
-    First Aid Medical Kit(Your guide will carry the Medical Kit but we also advise to bring yourself for your own use, as far as possible)
-All the required permits and paperwork";s:17:"cost_includes_val";s:845:"&lt;li&gt;Pick-up or Drop-off service from and to Airport(in our own vehicle)&lt;/li&gt;&lt;li&gt;    Transportation to and from!!&lt;/li&gt;&lt;li&gt;    Food all along the trip(Breakfast, Lunch, Dinner and a cup of coffee or tea) and accommodations during the trip in hotels with family environment&lt;/li&gt;&lt;li&gt;    Transportation, food, accommodation and insurance of Guide during the trip &lt;/li&gt;&lt;li&gt;    Down jacket, all-season sleeping bag, duffel bag and trekking map(in case if you don’t have your own. Down jacket, sleeping bag and duffel bag must be returned after completion of the trip)&lt;/li&gt;&lt;li&gt;    First Aid Medical Kit(Your guide will carry the Medical Kit but we also advise to bring yourself for your own use, as far as possible)&lt;/li&gt;&lt;li&gt;All the required permits and paperwork&lt;/li&gt;";s:14:"excludes_title";s:22:"The Trip Cost Excludes";s:13:"cost_excludes";s:424:"International Airfare
-    Visa Charges
-    Hotel Expenses(In Kathmandu, some packages do include hotel expenses)
-    Your travel and medical insurance 
-    Personal Expenses such as shopping, bar bills, hot shower, telephone, laundry, titbits etc
-    Food and accommodations in Kathmandu  
-    Services not mentioned or not promised by the agent/agency
-    Emergency expenses such as expenses on chartered helicopter.";s:17:"cost_excludes_val";s:582:"&lt;li&gt;    International Airfare&lt;/li&gt;&lt;li&gt;    Visa Charges&lt;/li&gt;&lt;li&gt;    Hotel Expenses(In Kathmandu, some packages do include hotel expenses)&lt;/li&gt;&lt;li&gt;    Your travel and medical insurance &lt;/li&gt;&lt;li&gt;    Personal Expenses such as shopping, bar bills, hot shower, telephone, laundry, titbits etc&lt;/li&gt;&lt;li&gt;    Food and accommodations in Kathmandu  &lt;/li&gt;&lt;li&gt;    Services not mentioned or not promised by the agent/agency&lt;/li&gt;&lt;li&gt;    Emergency expenses such as expenses on chartered helicopter.&lt;/li&gt;";}s:3:"faq";a:3:{s:5:"title";s:26:"Frequently asked Questions";s:9:"faq_title";a:8:{i:1;s:40:"How fit do I need to be to do this trek?";i:2;s:70:"How long do we walk every day when doing Annapurna Base Camp trekking?";i:3;s:50:"What is the highest altitude reached in this trek?";i:4;s:54:"What about battery charging and hot shower facilities?";i:5;s:49:"Are there ATMs on the way to Annapurna Base Camp?";i:6;s:27:"What about internet access?";i:7;s:80:"Is it necessary to hire Guides/trekking agency for Annapurna Base Camp trekking?";i:8;s:36:"How much do guides and porters cost?";}s:11:"faq_content";a:8:{i:1;s:265:"Annapurna Base Camp is a Grade B or a moderately difficult trekking route. So any fit person can do this trek, even if you do not have any previous experience. You should be aware of what to expect and mentally prepare for it. Then, as long as you will to, you can.";i:2;s:131:"On average, you walk about 4 to 6 hours per day. One or two days can be as less as 3hrs and one or two days can be as long as 7hrs.";i:3;s:131:"The highest altitude reached is 4190m. This is the elevation of Annapurna Base Camp. ABC is the highest we will climb in this trek.";i:4;s:230:"Yes, you can charge batteries en route. Charger should be brought. There are hot shower facilities as well. You may have to pay certain amount for both ($1-$2). Negotiate. Also, hot water facility could be free at lower elevation.";i:5;s:240:"No. There are no ATMs on this trek route. You will have to draw enough cash in Pokhara or Kathmandu. There are a number of ATMs in these cities. Everything is paid in Nepali rupees. So money should be exchanged before the start of the trek.";i:6;s:191:"Yes. Internet can be accessed in most places. Sometimes, there might be some technical problems. Internet in Nepal is not as fast as you are used to and at times you can just lose connection.";i:7;s:547:"Not really. It depends on you. If you want, ABC trekking can be done independently. You could hire a guide and a porter by yourself instead of going through an agency or not hire a guide at all. Although, not having a guide can be a little problematic during off season.
-
-It really depends on you. Is it your first time in Nepal? How confident are you of being able to find your way around? How pressed on time are you? If you go through an agency, it will be costlier but everything will be planned. You will only have to come, trek and return.";i:8;s:103:"For Annapurna region, pay for guides range from $20 to $30 per day and porters take $15 to $25 per day.";}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp_travel_engine_setting_trip_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1500]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp_travel_engine_setting_trip_duration]]></wp:meta_key>
-		<wp:meta_value><![CDATA[264]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpte_gallery_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:6:"enable";s:1:"1";i:0;s:3:"248";i:1;s:3:"250";i:2;s:2:"90";i:3;s:3:"247";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dp_original]]></wp:meta_key>
-		<wp:meta_value><![CDATA[261]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp_travel_engine_setting_trip_actual_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1700]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[packages_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;i:712;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[trip_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.0.0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_s_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1700]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_s_duration]]></wp:meta_key>
-		<wp:meta_value><![CDATA[264]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_s_min_pax]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_s_max_pax]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_s_has_sale]]></wp:meta_key>
-		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Paragliding is Life]]></title>
 		<link>https://thebootstrapthemes.com/previews/travel-tour/trip/paragliding-is-life/</link>
 		<pubDate>Thu, 16 Nov 2017 03:45:07 +0000</pubDate>
@@ -7816,7 +7661,7 @@ It really depends on you. Is it your first time in Nepal? How confident are you 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_booking_inventory]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:29:"cart_269_713_2024-05-31_00-00";a:1:{i:807;i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8519,6 +8364,273 @@ It really depends on you. Is it your first time in Nepal? How confident are you 
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Chulu Peak Climbing]]></title>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/trip/chulu-peak-climbing/</link>
+		<pubDate>Thu, 16 Nov 2017 04:23:17 +0000</pubDate>
+		<dc:creator><![CDATA[techteam]]></dc:creator>
+		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?post_type=trip&#038;p=266</guid>
+		<description></description>
+		<content:encoded><![CDATA[The Annapurna Circuit is a trek within the Annapurna mountain range of central Nepal.The total length of the route varies between 160–230 km (100-145 mi), depending on where motor transportation is used and where the trek is ended. This trek crosses two different river valleys and encircles the Annapurna massif. The path reaches its highest point at Thorung La pass (5416m/17769 ft), touching the edge of the Tibetan plateau.
+
+Practically all trekkers hike the route anticlockwise, as this way the daily altitude gain is slower, and crossing the high Thorong La pass is easier and safer. The mountain scenery, seen at close quarters includes the Annapurna Massif (Annapurna I-IV), Dhaulagiri, Machhapuchhre, Manaslu, Gangapurna, Tilicho Peak, Pisang Peak, and Paungda Danda. Numerous other peaks of 6000-8000m in elevation rise from the Annapurna range. The trek begins at Besisahar or Bhulbhule in the Marshyangdi river valley and concludes in the Kali Gandaki Gorge. Besisahar can be reached after a seven-hour drive from Kathmandu.
+
+&nbsp;]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>266</wp:post_id>
+		<wp:post_date><![CDATA[2017-11-16 10:08:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-11-16 04:23:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2017-11-16 10:08:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2017-11-16 04:23:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[chulu-peak-climbing]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[trip]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="destination" nicename="bhutan"><![CDATA[Bhutan]]></category>
+		<category domain="trip_types" nicename="budget-travel"><![CDATA[Budget travel]]></category>
+		<category domain="trip_types" nicename="child-friendly"><![CDATA[Child-friendly]]></category>
+		<category domain="trip_types" nicename="cultural"><![CDATA[Cultural]]></category>
+		<category domain="trip_types" nicename="dog-friendly"><![CDATA[Dog-friendly]]></category>
+		<category domain="trip_types" nicename="home-stay"><![CDATA[Home stay]]></category>
+		<category domain="destination" nicename="india"><![CDATA[India]]></category>
+		<category domain="destination" nicename="japan"><![CDATA[Japan]]></category>
+		<category domain="destination" nicename="london"><![CDATA[London]]></category>
+		<category domain="destination" nicename="maldives"><![CDATA[Maldives]]></category>
+		<category domain="destination" nicename="morroco"><![CDATA[Morroco]]></category>
+		<category domain="trip_types" nicename="nature-walk"><![CDATA[Nature Walk]]></category>
+		<category domain="destination" nicename="nepal"><![CDATA[Nepal]]></category>
+		<category domain="destination" nicename="paris"><![CDATA[Paris]]></category>
+		<category domain="activities" nicename="peak-climbing"><![CDATA[Peak Climbing]]></category>
+		<category domain="destination" nicename="prague"><![CDATA[Prague]]></category>
+		<category domain="destination" nicename="san-francisco"><![CDATA[San Francisco]]></category>
+		<category domain="destination" nicename="tibet"><![CDATA[Tibet]]></category>
+		<category domain="destination" nicename="venice"><![CDATA[Venice]]></category>
+		<category domain="trip_types" nicename="volunteer-trips"><![CDATA[Volunteer trips]]></category>
+		<category domain="trip_types" nicename="weekend-trips"><![CDATA[Weekend Trips]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[433]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_setting]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:10:{s:15:"trip_prev_price";s:4:"1950";s:4:"sale";s:1:"1";s:10:"trip_price";s:4:"1700";s:13:"trip_duration";s:2:"10";s:20:"trip_duration_nights";s:1:"9";s:10:"trip_facts";a:5:{s:8:"field_id";a:3:{i:1;s:14:"transportation";i:4;s:6:"Season";i:3;s:8:"altitude";}s:10:"field_type";a:3:{i:1;s:4:"text";i:4;s:6:"select";i:3;s:4:"text";}i:1;a:1:{i:1;s:11:"1-12 people";}i:4;a:1:{i:4;s:15:"5,554m/18,192ft";}i:3;a:1:{i:3;s:8:"Moderate";}}s:11:"tab_content";a:1:{s:10:"1_wpeditor";s:1190:"Travel is the movement of people between relatively distant geographical locations, and can involve travel by foot, bicycle, automobile, train, boat, bus, airplane, or other means, with or without luggage, and can be one way or round trip. Travel can also include relatively short stays between successive movements.
+
+The origin of the word &quot;travel&quot; is most likely lost to history. The term &quot;travel&quot; may originate from the Old French word travail, which means 'work'. According to the Merriam Webster dictionary, the first known use of the word travel was in the 14th century.
+
+It also states that the word comes from Middle English travailen, travelen (which means to torment, labor, strive, journey) and earlier from Old French travailler (which means to work strenuously, toil). In English we still occasionally use the words &quot;travail&quot;, which means struggle. According to Simon Winchester in his book The Best Travelers' Tales (2004), the words &quot;travel&quot; and &quot;travail&quot; both share an even more ancient root: a Roman instrument of torture called the tripalium (in Latin it means &quot;three stakes&quot;, as in to impale).
+
+&amp;nbsp;";}s:9:"itinerary";a:3:{s:15:"itinerary_title";a:7:{i:1;s:39:"Kathmandu to Pokhara (By flight or Bus)";i:2;s:35:"Drive to Nayapul and trek to Ulleri";i:3;s:17:"Trek to Ghorepani";i:4;s:75:"Early trek to Poon Hill for Sunrise, Back to Ghorepani and Trek to Tadapani";i:5;s:20:"Tadapani to Chomrong";i:6;s:26:"Chomrong to Dobhan (Dovan)";i:7;s:16:"Dovan to Deurali";}s:17:"itinerary_content";a:7:{i:1;s:258:"Arrive at Tribhuwan International Airport, Kathmandu, you are welcomed by the team and then you will be transferred to your hotel. This trail goes through Ghorepani Poon Hill. Normally, the trek starts like Phokhara to Nayapul and ends like Phedi to Pokhara.";i:2;s:335:"While early travel tended to be slower, more dangerous, and more dominated by trade and migration, cultural and technological advances over many years have tended to mean that travel has become easier and more accessible. The evolution of technology in such diverse fields as horse tack and bullet trains has contributed to this trend.";i:3;s:369:"The Palace of Fifty five Windows: This magnificent palace was built during the reign of King Yakshya Malla in A.D. 1427 and was subsequently remodeled by King Bhupatindra Malla in the seventeenth century. Among the brick walls with their gracious setting and sculptural design, is a balcony with Fifty five Windows, considered to be a unique masterpiece of woodcarving.";i:4;s:312:"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+
+Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia.";i:5;s:220:"Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.";i:6;s:168:"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.";i:7;s:258:"When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek.";}s:23:"itinerary_content_inner";a:7:{i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:0:"";i:5;s:0:"";i:6;s:0:"";i:7;s:0:"";}}s:4:"cost";a:6:{s:14:"includes_title";s:22:"The Trip Cost Includes";s:13:"cost_includes";s:710:"Pick-up or Drop-off service from and to Airport(in our own vehicle)
+    Transportation to and from!!
+    Food all along the trip(Breakfast, Lunch, Dinner and a cup of coffee or tea) and accommodations during the trip in hotels with family environment
+    Transportation, food, accommodation and insurance of Guide during the trip 
+    Down jacket, all-season sleeping bag, duffel bag and trekking map(in case if you don’t have your own. Down jacket, sleeping bag and duffel bag must be returned after completion of the trip)
+    First Aid Medical Kit(Your guide will carry the Medical Kit but we also advise to bring yourself for your own use, as far as possible)
+All the required permits and paperwork";s:17:"cost_includes_val";s:845:"&lt;li&gt;Pick-up or Drop-off service from and to Airport(in our own vehicle)&lt;/li&gt;&lt;li&gt;    Transportation to and from!!&lt;/li&gt;&lt;li&gt;    Food all along the trip(Breakfast, Lunch, Dinner and a cup of coffee or tea) and accommodations during the trip in hotels with family environment&lt;/li&gt;&lt;li&gt;    Transportation, food, accommodation and insurance of Guide during the trip &lt;/li&gt;&lt;li&gt;    Down jacket, all-season sleeping bag, duffel bag and trekking map(in case if you don’t have your own. Down jacket, sleeping bag and duffel bag must be returned after completion of the trip)&lt;/li&gt;&lt;li&gt;    First Aid Medical Kit(Your guide will carry the Medical Kit but we also advise to bring yourself for your own use, as far as possible)&lt;/li&gt;&lt;li&gt;All the required permits and paperwork&lt;/li&gt;";s:14:"excludes_title";s:22:"The Trip Cost Excludes";s:13:"cost_excludes";s:424:"International Airfare
+    Visa Charges
+    Hotel Expenses(In Kathmandu, some packages do include hotel expenses)
+    Your travel and medical insurance 
+    Personal Expenses such as shopping, bar bills, hot shower, telephone, laundry, titbits etc
+    Food and accommodations in Kathmandu  
+    Services not mentioned or not promised by the agent/agency
+    Emergency expenses such as expenses on chartered helicopter.";s:17:"cost_excludes_val";s:582:"&lt;li&gt;    International Airfare&lt;/li&gt;&lt;li&gt;    Visa Charges&lt;/li&gt;&lt;li&gt;    Hotel Expenses(In Kathmandu, some packages do include hotel expenses)&lt;/li&gt;&lt;li&gt;    Your travel and medical insurance &lt;/li&gt;&lt;li&gt;    Personal Expenses such as shopping, bar bills, hot shower, telephone, laundry, titbits etc&lt;/li&gt;&lt;li&gt;    Food and accommodations in Kathmandu  &lt;/li&gt;&lt;li&gt;    Services not mentioned or not promised by the agent/agency&lt;/li&gt;&lt;li&gt;    Emergency expenses such as expenses on chartered helicopter.&lt;/li&gt;";}s:3:"faq";a:3:{s:5:"title";s:26:"Frequently asked Questions";s:9:"faq_title";a:8:{i:1;s:40:"How fit do I need to be to do this trek?";i:2;s:70:"How long do we walk every day when doing Annapurna Base Camp trekking?";i:3;s:50:"What is the highest altitude reached in this trek?";i:4;s:54:"What about battery charging and hot shower facilities?";i:5;s:49:"Are there ATMs on the way to Annapurna Base Camp?";i:6;s:27:"What about internet access?";i:7;s:80:"Is it necessary to hire Guides/trekking agency for Annapurna Base Camp trekking?";i:8;s:36:"How much do guides and porters cost?";}s:11:"faq_content";a:8:{i:1;s:265:"Annapurna Base Camp is a Grade B or a moderately difficult trekking route. So any fit person can do this trek, even if you do not have any previous experience. You should be aware of what to expect and mentally prepare for it. Then, as long as you will to, you can.";i:2;s:131:"On average, you walk about 4 to 6 hours per day. One or two days can be as less as 3hrs and one or two days can be as long as 7hrs.";i:3;s:131:"The highest altitude reached is 4190m. This is the elevation of Annapurna Base Camp. ABC is the highest we will climb in this trek.";i:4;s:230:"Yes, you can charge batteries en route. Charger should be brought. There are hot shower facilities as well. You may have to pay certain amount for both ($1-$2). Negotiate. Also, hot water facility could be free at lower elevation.";i:5;s:240:"No. There are no ATMs on this trek route. You will have to draw enough cash in Pokhara or Kathmandu. There are a number of ATMs in these cities. Everything is paid in Nepali rupees. So money should be exchanged before the start of the trek.";i:6;s:191:"Yes. Internet can be accessed in most places. Sometimes, there might be some technical problems. Internet in Nepal is not as fast as you are used to and at times you can just lose connection.";i:7;s:547:"Not really. It depends on you. If you want, ABC trekking can be done independently. You could hire a guide and a porter by yourself instead of going through an agency or not hire a guide at all. Although, not having a guide can be a little problematic during off season.
+
+It really depends on you. Is it your first time in Nepal? How confident are you of being able to find your way around? How pressed on time are you? If you go through an agency, it will be costlier but everything will be planned. You will only have to come, trek and return.";i:8;s:103:"For Annapurna region, pay for guides range from $20 to $30 per day and porters take $15 to $25 per day.";}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_setting_trip_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1700]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_setting_trip_duration]]></wp:meta_key>
+		<wp:meta_value><![CDATA[240]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpte_gallery_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:6:"enable";s:1:"1";i:0;s:3:"248";i:1;s:3:"250";i:2;s:2:"90";i:3;s:3:"247";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dp_original]]></wp:meta_key>
+		<wp:meta_value><![CDATA[260]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[chulu-east-peak-climbing-2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_setting_trip_actual_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1950]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[packages_ids]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;i:711;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[trip_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2.0.0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_s_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1950]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_s_duration]]></wp:meta_key>
+		<wp:meta_value><![CDATA[240]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_s_min_pax]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_s_max_pax]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_s_has_sale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_booking_inventory]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Tilicho lake Trek]]></title>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/trip/tilicho-lake-trek/</link>
+		<pubDate>Thu, 16 Nov 2017 04:22:22 +0000</pubDate>
+		<dc:creator><![CDATA[techteam]]></dc:creator>
+		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour//?post_type=trip&#038;p=267</guid>
+		<description></description>
+		<content:encoded><![CDATA[The Annapurna Circuit is a trek within the Annapurna mountain range of central Nepal.The total length of the route varies between 160–230 km (100-145 mi), depending on where motor transportation is used and where the trek is ended. This trek crosses two different river valleys and encircles the Annapurna massif. The path reaches its highest point at Thorung La pass (5416m/17769 ft), touching the edge of the Tibetan plateau.
+
+Practically all trekkers hike the route anticlockwise, as this way the daily altitude gain is slower, and crossing the high Thorong La pass is easier and safer. The mountain scenery, seen at close quarters includes the Annapurna Massif (Annapurna I-IV), Dhaulagiri, Machhapuchhre, Manaslu, Gangapurna, Tilicho Peak, Pisang Peak, and Paungda Danda. Numerous other peaks of 6000-8000m in elevation rise from the Annapurna range. The trek begins at Besisahar or Bhulbhule in the Marshyangdi river valley and concludes in the Kali Gandaki Gorge. Besisahar can be reached after a seven-hour drive from Kathmandu.
+
+&nbsp;]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>267</wp:post_id>
+		<wp:post_date><![CDATA[2017-11-16 10:07:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-11-16 04:22:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2017-11-16 10:07:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2017-11-16 04:22:22]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[tilicho-lake-trek]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[trip]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="destination" nicename="bhutan"><![CDATA[Bhutan]]></category>
+		<category domain="trip_types" nicename="budget-travel"><![CDATA[Budget travel]]></category>
+		<category domain="trip_types" nicename="child-friendly"><![CDATA[Child-friendly]]></category>
+		<category domain="trip_types" nicename="cultural"><![CDATA[Cultural]]></category>
+		<category domain="activities" nicename="cultur-tours"><![CDATA[Cultural Tours]]></category>
+		<category domain="trip_types" nicename="dog-friendly"><![CDATA[Dog-friendly]]></category>
+		<category domain="trip_types" nicename="home-stay"><![CDATA[Home stay]]></category>
+		<category domain="destination" nicename="india"><![CDATA[India]]></category>
+		<category domain="destination" nicename="japan"><![CDATA[Japan]]></category>
+		<category domain="activities" nicename="kayaking"><![CDATA[Kayaking]]></category>
+		<category domain="destination" nicename="london"><![CDATA[London]]></category>
+		<category domain="destination" nicename="maldives"><![CDATA[Maldives]]></category>
+		<category domain="destination" nicename="morroco"><![CDATA[Morroco]]></category>
+		<category domain="trip_types" nicename="nature-walk"><![CDATA[Nature Walk]]></category>
+		<category domain="destination" nicename="nepal"><![CDATA[Nepal]]></category>
+		<category domain="destination" nicename="paris"><![CDATA[Paris]]></category>
+		<category domain="destination" nicename="prague"><![CDATA[Prague]]></category>
+		<category domain="activities" nicename="river-rafting"><![CDATA[River Rafting]]></category>
+		<category domain="activities" nicename="road-cycling"><![CDATA[Road Cycling]]></category>
+		<category domain="destination" nicename="san-francisco"><![CDATA[San Francisco]]></category>
+		<category domain="destination" nicename="tibet"><![CDATA[Tibet]]></category>
+		<category domain="destination" nicename="venice"><![CDATA[Venice]]></category>
+		<category domain="trip_types" nicename="volunteer-trips"><![CDATA[Volunteer trips]]></category>
+		<category domain="trip_types" nicename="weekend-trips"><![CDATA[Weekend Trips]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[241]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_setting]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:10:{s:15:"trip_prev_price";s:4:"1700";s:4:"sale";s:1:"1";s:10:"trip_price";s:4:"1500";s:13:"trip_duration";s:2:"11";s:20:"trip_duration_nights";s:2:"10";s:10:"trip_facts";a:10:{s:8:"field_id";a:8:{i:1;s:10:"Group Size";i:4;s:13:"Max. Altitude";i:7;s:11:"Destination";i:3;s:10:"Difficulty";i:8;s:10:"Arrival on";i:11;s:14:"Departure from";i:9;s:5:"Meals";i:10;s:14:"Accommodation:";}s:10:"field_type";a:8:{i:1;s:4:"text";i:4;s:4:"text";i:7;s:4:"text";i:3;s:4:"text";i:8;s:4:"text";i:11;s:4:"text";i:9;s:4:"text";i:10;s:4:"text";}i:1;a:1:{i:1;s:11:"1-12 people";}i:4;a:1:{i:4;s:15:"5,554m/18,192ft";}i:7;a:1:{i:7;s:5:"Nepal";}i:3;a:1:{i:3;s:8:"Moderate";}i:8;a:1:{i:8;s:16:"Kathmandu, Nepal";}i:11;a:1:{i:11;s:16:"Kathmandu, Nepal";}i:9;a:1:{i:9;s:52:"Breakfast in Kathmandu and all meals during the trek";}i:10;a:1:{i:10;s:61:"Hotel accomodation in Kathmandu and teahouses during the trek";}}s:11:"tab_content";a:1:{s:10:"1_wpeditor";s:1190:"Travel is the movement of people between relatively distant geographical locations, and can involve travel by foot, bicycle, automobile, train, boat, bus, airplane, or other means, with or without luggage, and can be one way or round trip. Travel can also include relatively short stays between successive movements.
+
+The origin of the word &quot;travel&quot; is most likely lost to history. The term &quot;travel&quot; may originate from the Old French word travail, which means 'work'. According to the Merriam Webster dictionary, the first known use of the word travel was in the 14th century.
+
+It also states that the word comes from Middle English travailen, travelen (which means to torment, labor, strive, journey) and earlier from Old French travailler (which means to work strenuously, toil). In English we still occasionally use the words &quot;travail&quot;, which means struggle. According to Simon Winchester in his book The Best Travelers' Tales (2004), the words &quot;travel&quot; and &quot;travail&quot; both share an even more ancient root: a Roman instrument of torture called the tripalium (in Latin it means &quot;three stakes&quot;, as in to impale).
+
+&amp;nbsp;";}s:9:"itinerary";a:2:{s:15:"itinerary_title";a:7:{i:1;s:39:"Kathmandu to Pokhara (By flight or Bus)";i:2;s:35:"Drive to Nayapul and trek to Ulleri";i:3;s:17:"Trek to Ghorepani";i:4;s:75:"Early trek to Poon Hill for Sunrise, Back to Ghorepani and Trek to Tadapani";i:5;s:20:"Tadapani to Chomrong";i:6;s:26:"Chomrong to Dobhan (Dovan)";i:7;s:16:"Dovan to Deurali";}s:17:"itinerary_content";a:7:{i:1;s:258:"Arrive at Tribhuwan International Airport, Kathmandu, you are welcomed by the team and then you will be transferred to your hotel. This trail goes through Ghorepani Poon Hill. Normally, the trek starts like Phokhara to Nayapul and ends like Phedi to Pokhara.";i:2;s:335:"While early travel tended to be slower, more dangerous, and more dominated by trade and migration, cultural and technological advances over many years have tended to mean that travel has become easier and more accessible. The evolution of technology in such diverse fields as horse tack and bullet trains has contributed to this trend.";i:3;s:369:"The Palace of Fifty five Windows: This magnificent palace was built during the reign of King Yakshya Malla in A.D. 1427 and was subsequently remodeled by King Bhupatindra Malla in the seventeenth century. Among the brick walls with their gracious setting and sculptural design, is a balcony with Fifty five Windows, considered to be a unique masterpiece of woodcarving.";i:4;s:312:"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+
+Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia.";i:5;s:220:"Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.";i:6;s:168:"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.";i:7;s:258:"When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek.";}}s:4:"cost";a:6:{s:14:"includes_title";s:22:"The Trip Cost Includes";s:13:"cost_includes";s:710:"Pick-up or Drop-off service from and to Airport(in our own vehicle)
+    Transportation to and from!!
+    Food all along the trip(Breakfast, Lunch, Dinner and a cup of coffee or tea) and accommodations during the trip in hotels with family environment
+    Transportation, food, accommodation and insurance of Guide during the trip 
+    Down jacket, all-season sleeping bag, duffel bag and trekking map(in case if you don’t have your own. Down jacket, sleeping bag and duffel bag must be returned after completion of the trip)
+    First Aid Medical Kit(Your guide will carry the Medical Kit but we also advise to bring yourself for your own use, as far as possible)
+All the required permits and paperwork";s:17:"cost_includes_val";s:845:"&lt;li&gt;Pick-up or Drop-off service from and to Airport(in our own vehicle)&lt;/li&gt;&lt;li&gt;    Transportation to and from!!&lt;/li&gt;&lt;li&gt;    Food all along the trip(Breakfast, Lunch, Dinner and a cup of coffee or tea) and accommodations during the trip in hotels with family environment&lt;/li&gt;&lt;li&gt;    Transportation, food, accommodation and insurance of Guide during the trip &lt;/li&gt;&lt;li&gt;    Down jacket, all-season sleeping bag, duffel bag and trekking map(in case if you don’t have your own. Down jacket, sleeping bag and duffel bag must be returned after completion of the trip)&lt;/li&gt;&lt;li&gt;    First Aid Medical Kit(Your guide will carry the Medical Kit but we also advise to bring yourself for your own use, as far as possible)&lt;/li&gt;&lt;li&gt;All the required permits and paperwork&lt;/li&gt;";s:14:"excludes_title";s:22:"The Trip Cost Excludes";s:13:"cost_excludes";s:424:"International Airfare
+    Visa Charges
+    Hotel Expenses(In Kathmandu, some packages do include hotel expenses)
+    Your travel and medical insurance 
+    Personal Expenses such as shopping, bar bills, hot shower, telephone, laundry, titbits etc
+    Food and accommodations in Kathmandu  
+    Services not mentioned or not promised by the agent/agency
+    Emergency expenses such as expenses on chartered helicopter.";s:17:"cost_excludes_val";s:582:"&lt;li&gt;    International Airfare&lt;/li&gt;&lt;li&gt;    Visa Charges&lt;/li&gt;&lt;li&gt;    Hotel Expenses(In Kathmandu, some packages do include hotel expenses)&lt;/li&gt;&lt;li&gt;    Your travel and medical insurance &lt;/li&gt;&lt;li&gt;    Personal Expenses such as shopping, bar bills, hot shower, telephone, laundry, titbits etc&lt;/li&gt;&lt;li&gt;    Food and accommodations in Kathmandu  &lt;/li&gt;&lt;li&gt;    Services not mentioned or not promised by the agent/agency&lt;/li&gt;&lt;li&gt;    Emergency expenses such as expenses on chartered helicopter.&lt;/li&gt;";}s:3:"faq";a:3:{s:5:"title";s:26:"Frequently asked Questions";s:9:"faq_title";a:8:{i:1;s:40:"How fit do I need to be to do this trek?";i:2;s:70:"How long do we walk every day when doing Annapurna Base Camp trekking?";i:3;s:50:"What is the highest altitude reached in this trek?";i:4;s:54:"What about battery charging and hot shower facilities?";i:5;s:49:"Are there ATMs on the way to Annapurna Base Camp?";i:6;s:27:"What about internet access?";i:7;s:80:"Is it necessary to hire Guides/trekking agency for Annapurna Base Camp trekking?";i:8;s:36:"How much do guides and porters cost?";}s:11:"faq_content";a:8:{i:1;s:265:"Annapurna Base Camp is a Grade B or a moderately difficult trekking route. So any fit person can do this trek, even if you do not have any previous experience. You should be aware of what to expect and mentally prepare for it. Then, as long as you will to, you can.";i:2;s:131:"On average, you walk about 4 to 6 hours per day. One or two days can be as less as 3hrs and one or two days can be as long as 7hrs.";i:3;s:131:"The highest altitude reached is 4190m. This is the elevation of Annapurna Base Camp. ABC is the highest we will climb in this trek.";i:4;s:230:"Yes, you can charge batteries en route. Charger should be brought. There are hot shower facilities as well. You may have to pay certain amount for both ($1-$2). Negotiate. Also, hot water facility could be free at lower elevation.";i:5;s:240:"No. There are no ATMs on this trek route. You will have to draw enough cash in Pokhara or Kathmandu. There are a number of ATMs in these cities. Everything is paid in Nepali rupees. So money should be exchanged before the start of the trek.";i:6;s:191:"Yes. Internet can be accessed in most places. Sometimes, there might be some technical problems. Internet in Nepal is not as fast as you are used to and at times you can just lose connection.";i:7;s:547:"Not really. It depends on you. If you want, ABC trekking can be done independently. You could hire a guide and a porter by yourself instead of going through an agency or not hire a guide at all. Although, not having a guide can be a little problematic during off season.
+
+It really depends on you. Is it your first time in Nepal? How confident are you of being able to find your way around? How pressed on time are you? If you go through an agency, it will be costlier but everything will be planned. You will only have to come, trek and return.";i:8;s:103:"For Annapurna region, pay for guides range from $20 to $30 per day and porters take $15 to $25 per day.";}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_setting_trip_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_setting_trip_duration]]></wp:meta_key>
+		<wp:meta_value><![CDATA[264]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpte_gallery_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:6:"enable";s:1:"1";i:0;s:3:"248";i:1;s:3:"250";i:2;s:2:"90";i:3;s:3:"247";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dp_original]]></wp:meta_key>
+		<wp:meta_value><![CDATA[261]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_setting_trip_actual_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1700]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[packages_ids]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;i:712;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[trip_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2.0.0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_s_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1700]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_s_duration]]></wp:meta_key>
+		<wp:meta_value><![CDATA[264]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_s_min_pax]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_s_max_pax]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_s_has_sale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Rocky Mountain Vacations]]></title>
 		<link>https://thebootstrapthemes.com/previews/travel-tour/trip/rocky-mountain-vacations/</link>
 		<pubDate>Thu, 16 Nov 2017 04:31:30 +0000</pubDate>
@@ -8806,8 +8918,8 @@ Practically all trekkers hike the route anticlockwise, as this way the daily alt
 		<wp:post_id>281</wp:post_id>
 		<wp:post_date><![CDATA[2017-11-16 16:32:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2017-11-16 10:47:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2017-11-16 16:32:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2017-11-16 10:47:11]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-04-29 14:26:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-29 14:26:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[greece-tour]]></wp:post_name>
@@ -8845,13 +8957,13 @@ Practically all trekkers hike the route anticlockwise, as this way the daily alt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp_travel_engine_setting]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:10:{s:15:"trip_prev_price";s:4:"1300";s:4:"sale";s:1:"1";s:10:"trip_price";s:4:"1200";s:13:"trip_duration";s:1:"8";s:20:"trip_duration_nights";s:1:"7";s:10:"trip_facts";a:5:{s:8:"field_id";a:3:{i:1;s:14:"transportation";i:4;s:6:"Season";i:3;s:8:"altitude";}s:10:"field_type";a:3:{i:1;s:4:"text";i:4;s:6:"select";i:3;s:4:"text";}i:1;a:1:{i:1;s:11:"1-12 people";}i:4;a:1:{i:4;s:3:"jan";}i:3;a:1:{i:3;s:8:"Moderate";}}s:11:"tab_content";a:1:{s:10:"1_wpeditor";s:1190:"Travel is the movement of people between relatively distant geographical locations, and can involve travel by foot, bicycle, automobile, train, boat, bus, airplane, or other means, with or without luggage, and can be one way or round trip. Travel can also include relatively short stays between successive movements.
+		<wp:meta_value><![CDATA[a:18:{s:15:"trip_prev_price";s:4:"1300";s:4:"sale";s:1:"1";s:10:"trip_price";s:4:"1200";s:13:"trip_duration";s:1:"8";s:20:"trip_duration_nights";s:1:"7";s:10:"trip_facts";a:5:{s:8:"field_id";a:3:{i:1;s:14:"transportation";i:4;s:6:"Season";i:3;s:8:"altitude";}s:10:"field_type";a:3:{i:1;s:4:"text";i:4;s:6:"select";i:3;s:4:"text";}i:1;a:1:{i:1;s:11:"1-12 people";}i:4;a:1:{i:4;s:3:"jan";}i:3;a:1:{i:3;s:8:"Moderate";}}s:11:"tab_content";a:1:{s:10:"1_wpeditor";s:1122:"Travel is the movement of people between relatively distant geographical locations, and can involve travel by foot, bicycle, automobile, train, boat, bus, airplane, or other means, with or without luggage, and can be one way or round trip. Travel can also include relatively short stays between successive movements.
 
-The origin of the word &quot;travel&quot; is most likely lost to history. The term &quot;travel&quot; may originate from the Old French word travail, which means 'work'. According to the Merriam Webster dictionary, the first known use of the word travel was in the 14th century.
+The origin of the word "travel" is most likely lost to history. The term "travel" may originate from the Old French word travail, which means 'work'. According to the Merriam Webster dictionary, the first known use of the word travel was in the 14th century.
 
-It also states that the word comes from Middle English travailen, travelen (which means to torment, labor, strive, journey) and earlier from Old French travailler (which means to work strenuously, toil). In English we still occasionally use the words &quot;travail&quot;, which means struggle. According to Simon Winchester in his book The Best Travelers' Tales (2004), the words &quot;travel&quot; and &quot;travail&quot; both share an even more ancient root: a Roman instrument of torture called the tripalium (in Latin it means &quot;three stakes&quot;, as in to impale).
+It also states that the word comes from Middle English travailen, travelen (which means to torment, labor, strive, journey) and earlier from Old French travailler (which means to work strenuously, toil). In English we still occasionally use the words "travail", which means struggle. According to Simon Winchester in his book The Best Travelers' Tales (2004), the words "travel" and "travail" both share an even more ancient root: a Roman instrument of torture called the tripalium (in Latin it means "three stakes", as in to impale).
 
-&amp;nbsp;";}s:9:"itinerary";a:3:{s:15:"itinerary_title";a:7:{i:1;s:39:"Kathmandu to Pokhara (By flight or Bus)";i:2;s:35:"Drive to Nayapul and trek to Ulleri";i:3;s:17:"Trek to Ghorepani";i:4;s:75:"Early trek to Poon Hill for Sunrise, Back to Ghorepani and Trek to Tadapani";i:5;s:20:"Tadapani to Chomrong";i:6;s:26:"Chomrong to Dobhan (Dovan)";i:7;s:16:"Dovan to Deurali";}s:17:"itinerary_content";a:7:{i:1;s:258:"Arrive at Tribhuwan International Airport, Kathmandu, you are welcomed by the team and then you will be transferred to your hotel. This trail goes through Ghorepani Poon Hill. Normally, the trek starts like Phokhara to Nayapul and ends like Phedi to Pokhara.";i:2;s:335:"While early travel tended to be slower, more dangerous, and more dominated by trade and migration, cultural and technological advances over many years have tended to mean that travel has become easier and more accessible. The evolution of technology in such diverse fields as horse tack and bullet trains has contributed to this trend.";i:3;s:369:"The Palace of Fifty five Windows: This magnificent palace was built during the reign of King Yakshya Malla in A.D. 1427 and was subsequently remodeled by King Bhupatindra Malla in the seventeenth century. Among the brick walls with their gracious setting and sculptural design, is a balcony with Fifty five Windows, considered to be a unique masterpiece of woodcarving.";i:4;s:312:"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+ ";}s:9:"itinerary";a:3:{s:15:"itinerary_title";a:7:{i:1;s:39:"Kathmandu to Pokhara (By flight or Bus)";i:2;s:35:"Drive to Nayapul and trek to Ulleri";i:3;s:17:"Trek to Ghorepani";i:4;s:75:"Early trek to Poon Hill for Sunrise, Back to Ghorepani and Trek to Tadapani";i:5;s:20:"Tadapani to Chomrong";i:6;s:26:"Chomrong to Dobhan (Dovan)";i:7;s:16:"Dovan to Deurali";}s:17:"itinerary_content";a:7:{i:1;s:258:"Arrive at Tribhuwan International Airport, Kathmandu, you are welcomed by the team and then you will be transferred to your hotel. This trail goes through Ghorepani Poon Hill. Normally, the trek starts like Phokhara to Nayapul and ends like Phedi to Pokhara.";i:2;s:335:"While early travel tended to be slower, more dangerous, and more dominated by trade and migration, cultural and technological advances over many years have tended to mean that travel has become easier and more accessible. The evolution of technology in such diverse fields as horse tack and bullet trains has contributed to this trend.";i:3;s:369:"The Palace of Fifty five Windows: This magnificent palace was built during the reign of King Yakshya Malla in A.D. 1427 and was subsequently remodeled by King Bhupatindra Malla in the seventeenth century. Among the brick walls with their gracious setting and sculptural design, is a balcony with Fifty five Windows, considered to be a unique masterpiece of woodcarving.";i:4;s:312:"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
 
 Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia.";i:5;s:220:"Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.";i:6;s:168:"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.";i:7;s:258:"When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek.";}s:23:"itinerary_content_inner";a:7:{i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:0:"";i:5;s:0:"";i:6;s:0:"";i:7;s:0:"";}}s:4:"cost";a:6:{s:14:"includes_title";s:22:"The Trip Cost Includes";s:13:"cost_includes";s:710:"Pick-up or Drop-off service from and to Airport(in our own vehicle)
     Transportation to and from!!
@@ -8859,16 +8971,16 @@ Separated they live in Bookmarksgrove right at the coast of the Semantics, a lar
     Transportation, food, accommodation and insurance of Guide during the trip 
     Down jacket, all-season sleeping bag, duffel bag and trekking map(in case if you don’t have your own. Down jacket, sleeping bag and duffel bag must be returned after completion of the trip)
     First Aid Medical Kit(Your guide will carry the Medical Kit but we also advise to bring yourself for your own use, as far as possible)
-All the required permits and paperwork";s:17:"cost_includes_val";s:845:"&lt;li&gt;Pick-up or Drop-off service from and to Airport(in our own vehicle)&lt;/li&gt;&lt;li&gt;    Transportation to and from!!&lt;/li&gt;&lt;li&gt;    Food all along the trip(Breakfast, Lunch, Dinner and a cup of coffee or tea) and accommodations during the trip in hotels with family environment&lt;/li&gt;&lt;li&gt;    Transportation, food, accommodation and insurance of Guide during the trip &lt;/li&gt;&lt;li&gt;    Down jacket, all-season sleeping bag, duffel bag and trekking map(in case if you don’t have your own. Down jacket, sleeping bag and duffel bag must be returned after completion of the trip)&lt;/li&gt;&lt;li&gt;    First Aid Medical Kit(Your guide will carry the Medical Kit but we also advise to bring yourself for your own use, as far as possible)&lt;/li&gt;&lt;li&gt;All the required permits and paperwork&lt;/li&gt;";s:14:"excludes_title";s:22:"The Trip Cost Excludes";s:13:"cost_excludes";s:424:"International Airfare
+All the required permits and paperwork";s:17:"cost_includes_val";s:761:"<li>Pick-up or Drop-off service from and to Airport(in our own vehicle)</li><li>    Transportation to and from!!</li><li>    Food all along the trip(Breakfast, Lunch, Dinner and a cup of coffee or tea) and accommodations during the trip in hotels with family environment</li><li>    Transportation, food, accommodation and insurance of Guide during the trip </li><li>    Down jacket, all-season sleeping bag, duffel bag and trekking map(in case if you don’t have your own. Down jacket, sleeping bag and duffel bag must be returned after completion of the trip)</li><li>    First Aid Medical Kit(Your guide will carry the Medical Kit but we also advise to bring yourself for your own use, as far as possible)</li><li>All the required permits and paperwork</li>";s:14:"excludes_title";s:22:"The Trip Cost Excludes";s:13:"cost_excludes";s:424:"International Airfare
     Visa Charges
     Hotel Expenses(In Kathmandu, some packages do include hotel expenses)
     Your travel and medical insurance 
     Personal Expenses such as shopping, bar bills, hot shower, telephone, laundry, titbits etc
     Food and accommodations in Kathmandu  
     Services not mentioned or not promised by the agent/agency
-    Emergency expenses such as expenses on chartered helicopter.";s:17:"cost_excludes_val";s:582:"&lt;li&gt;    International Airfare&lt;/li&gt;&lt;li&gt;    Visa Charges&lt;/li&gt;&lt;li&gt;    Hotel Expenses(In Kathmandu, some packages do include hotel expenses)&lt;/li&gt;&lt;li&gt;    Your travel and medical insurance &lt;/li&gt;&lt;li&gt;    Personal Expenses such as shopping, bar bills, hot shower, telephone, laundry, titbits etc&lt;/li&gt;&lt;li&gt;    Food and accommodations in Kathmandu  &lt;/li&gt;&lt;li&gt;    Services not mentioned or not promised by the agent/agency&lt;/li&gt;&lt;li&gt;    Emergency expenses such as expenses on chartered helicopter.&lt;/li&gt;";}s:3:"faq";a:3:{s:5:"title";s:26:"Frequently asked Questions";s:9:"faq_title";a:8:{i:1;s:40:"How fit do I need to be to do this trek?";i:2;s:70:"How long do we walk every day when doing Annapurna Base Camp trekking?";i:3;s:50:"What is the highest altitude reached in this trek?";i:4;s:54:"What about battery charging and hot shower facilities?";i:5;s:49:"Are there ATMs on the way to Annapurna Base Camp?";i:6;s:27:"What about internet access?";i:7;s:80:"Is it necessary to hire Guides/trekking agency for Annapurna Base Camp trekking?";i:8;s:36:"How much do guides and porters cost?";}s:11:"faq_content";a:8:{i:1;s:265:"Annapurna Base Camp is a Grade B or a moderately difficult trekking route. So any fit person can do this trek, even if you do not have any previous experience. You should be aware of what to expect and mentally prepare for it. Then, as long as you will to, you can.";i:2;s:131:"On average, you walk about 4 to 6 hours per day. One or two days can be as less as 3hrs and one or two days can be as long as 7hrs.";i:3;s:131:"The highest altitude reached is 4190m. This is the elevation of Annapurna Base Camp. ABC is the highest we will climb in this trek.";i:4;s:230:"Yes, you can charge batteries en route. Charger should be brought. There are hot shower facilities as well. You may have to pay certain amount for both ($1-$2). Negotiate. Also, hot water facility could be free at lower elevation.";i:5;s:240:"No. There are no ATMs on this trek route. You will have to draw enough cash in Pokhara or Kathmandu. There are a number of ATMs in these cities. Everything is paid in Nepali rupees. So money should be exchanged before the start of the trek.";i:6;s:191:"Yes. Internet can be accessed in most places. Sometimes, there might be some technical problems. Internet in Nepal is not as fast as you are used to and at times you can just lose connection.";i:7;s:547:"Not really. It depends on you. If you want, ABC trekking can be done independently. You could hire a guide and a porter by yourself instead of going through an agency or not hire a guide at all. Although, not having a guide can be a little problematic during off season.
+    Emergency expenses such as expenses on chartered helicopter.";s:17:"cost_excludes_val";s:486:"<li>    International Airfare</li><li>    Visa Charges</li><li>    Hotel Expenses(In Kathmandu, some packages do include hotel expenses)</li><li>    Your travel and medical insurance </li><li>    Personal Expenses such as shopping, bar bills, hot shower, telephone, laundry, titbits etc</li><li>    Food and accommodations in Kathmandu  </li><li>    Services not mentioned or not promised by the agent/agency</li><li>    Emergency expenses such as expenses on chartered helicopter.</li>";}s:3:"faq";a:3:{s:5:"title";s:26:"Frequently asked Questions";s:9:"faq_title";a:8:{i:1;s:40:"How fit do I need to be to do this trek?";i:2;s:70:"How long do we walk every day when doing Annapurna Base Camp trekking?";i:3;s:50:"What is the highest altitude reached in this trek?";i:4;s:54:"What about battery charging and hot shower facilities?";i:5;s:49:"Are there ATMs on the way to Annapurna Base Camp?";i:6;s:27:"What about internet access?";i:7;s:80:"Is it necessary to hire Guides/trekking agency for Annapurna Base Camp trekking?";i:8;s:36:"How much do guides and porters cost?";}s:11:"faq_content";a:8:{i:1;s:265:"Annapurna Base Camp is a Grade B or a moderately difficult trekking route. So any fit person can do this trek, even if you do not have any previous experience. You should be aware of what to expect and mentally prepare for it. Then, as long as you will to, you can.";i:2;s:131:"On average, you walk about 4 to 6 hours per day. One or two days can be as less as 3hrs and one or two days can be as long as 7hrs.";i:3;s:131:"The highest altitude reached is 4190m. This is the elevation of Annapurna Base Camp. ABC is the highest we will climb in this trek.";i:4;s:230:"Yes, you can charge batteries en route. Charger should be brought. There are hot shower facilities as well. You may have to pay certain amount for both ($1-$2). Negotiate. Also, hot water facility could be free at lower elevation.";i:5;s:240:"No. There are no ATMs on this trek route. You will have to draw enough cash in Pokhara or Kathmandu. There are a number of ATMs in these cities. Everything is paid in Nepali rupees. So money should be exchanged before the start of the trek.";i:6;s:191:"Yes. Internet can be accessed in most places. Sometimes, there might be some technical problems. Internet in Nepal is not as fast as you are used to and at times you can just lose connection.";i:7;s:547:"Not really. It depends on you. If you want, ABC trekking can be done independently. You could hire a guide and a porter by yourself instead of going through an agency or not hire a guide at all. Although, not having a guide can be a little problematic during off season.
 
-It really depends on you. Is it your first time in Nepal? How confident are you of being able to find your way around? How pressed on time are you? If you go through an agency, it will be costlier but everything will be planned. You will only have to come, trek and return.";i:8;s:103:"For Annapurna region, pay for guides range from $20 to $30 per day and porters take $15 to $25 per day.";}}}]]></wp:meta_value>
+It really depends on you. Is it your first time in Nepal? How confident are you of being able to find your way around? How pressed on time are you? If you go through an agency, it will be costlier but everything will be planned. You will only have to come, trek and return.";i:8;s:103:"For Annapurna region, pay for guides range from $20 to $30 per day and porters take $15 to $25 per day.";}}s:9:"trip_code";s:7:"WTE-281";s:18:"trip_duration_unit";s:4:"days";s:17:"trip_cut_off_time";s:0:"";s:17:"trip_cut_off_unit";s:4:"days";s:16:"trip_minimum_pax";s:0:"";s:16:"trip_maximum_pax";s:0:"";s:22:"overview_section_title";s:8:"Overview";s:21:"trip_highlights_title";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp_travel_engine_setting_trip_price]]></wp:meta_key>
@@ -8876,7 +8988,7 @@ It really depends on you. Is it your first time in Nepal? How confident are you 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp_travel_engine_setting_trip_duration]]></wp:meta_key>
-		<wp:meta_value><![CDATA[192]]></wp:meta_value>
+		<wp:meta_value><![CDATA[8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpte_gallery_id]]></wp:meta_key>
@@ -8896,7 +9008,7 @@ It really depends on you. Is it your first time in Nepal? How confident are you 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp_travel_engine_setting_trip_actual_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1300]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1200]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[packages_ids]]></wp:meta_key>
@@ -8908,7 +9020,7 @@ It really depends on you. Is it your first time in Nepal? How confident are you 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_s_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1300]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1200]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_s_duration]]></wp:meta_key>
@@ -8916,11 +9028,11 @@ It really depends on you. Is it your first time in Nepal? How confident are you 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_s_min_pax]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_s_max_pax]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_s_has_sale]]></wp:meta_key>
@@ -8929,6 +9041,22 @@ It really depends on you. Is it your first time in Nepal? How confident are you 
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_booking_inventory]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{s:29:"cart_281_722_2024-01-22_00-00";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_setting_trip_prev_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1300]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_trip_min_age]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_travel_engine_trip_max_age]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9715,86 +9843,6 @@ It really depends on you. Is it your first time in Nepal? How confident are you 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Default]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/trip-packages/default-13/</link>
-		<pubDate>Wed, 16 Jun 2021 08:41:57 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/trip-packages/default-13/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>714</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-16 08:41:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-06-16 08:41:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-16 08:41:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-16 08:41:57]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[default-13]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[trip-packages]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[package-dates]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[package-categories]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:5:"c_ids";a:1:{i:38;i:38;}s:6:"labels";a:1:{i:38;s:5:"Adult";}s:6:"prices";a:1:{i:38;s:4:"1400";}s:12:"enabled_sale";a:1:{i:38;b:1;}s:11:"sale_prices";a:1:{i:38;s:4:"1300";}s:11:"price_types";a:1:{i:38;s:10:"per-person";}s:9:"min_paxes";a:1:{i:38;i:0;}s:13:"group-pricing";a:1:{i:38;a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[group-pricing]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:38;a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[trip_ID]]></wp:meta_key>
-		<wp:meta_value><![CDATA[270]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Default]]></title>
-		<link>https://thebootstrapthemes.com/previews/travel-tour/trip-packages/default-14/</link>
-		<pubDate>Wed, 16 Jun 2021 08:41:57 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/trip-packages/default-14/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>715</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-16 08:41:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-06-16 08:41:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-16 08:41:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-16 08:41:57]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[default-14]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[trip-packages]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[package-dates]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[package-categories]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:5:"c_ids";a:1:{i:38;i:38;}s:6:"labels";a:1:{i:38;s:5:"Adult";}s:6:"prices";a:1:{i:38;s:4:"1900";}s:12:"enabled_sale";a:1:{i:38;b:1;}s:11:"sale_prices";a:1:{i:38;s:4:"1700";}s:11:"price_types";a:1:{i:38;s:10:"per-person";}s:9:"min_paxes";a:1:{i:38;i:0;}s:13:"group-pricing";a:1:{i:38;a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[group-pricing]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:38;a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[trip_ID]]></wp:meta_key>
-		<wp:meta_value><![CDATA[271]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Contact form 1]]></title>
 		<link>https://thebootstrapthemes.com/previews/travel-tour/?post_type=wpcf7_contact_form&#038;p=624</link>
 		<pubDate>Wed, 31 Mar 2021 08:40:17 +0000</pubDate>
@@ -10003,6 +10051,86 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[payment_gateway]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Default]]></title>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/trip-packages/default-13/</link>
+		<pubDate>Wed, 16 Jun 2021 08:41:57 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/trip-packages/default-13/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>714</wp:post_id>
+		<wp:post_date><![CDATA[2021-06-16 08:41:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-06-16 08:41:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-06-16 08:41:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-06-16 08:41:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[default-13]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[trip-packages]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[package-dates]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[package-categories]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:5:"c_ids";a:1:{i:38;i:38;}s:6:"labels";a:1:{i:38;s:5:"Adult";}s:6:"prices";a:1:{i:38;s:4:"1400";}s:12:"enabled_sale";a:1:{i:38;b:1;}s:11:"sale_prices";a:1:{i:38;s:4:"1300";}s:11:"price_types";a:1:{i:38;s:10:"per-person";}s:9:"min_paxes";a:1:{i:38;i:0;}s:13:"group-pricing";a:1:{i:38;a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[group-pricing]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:38;a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[trip_ID]]></wp:meta_key>
+		<wp:meta_value><![CDATA[270]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Default]]></title>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/trip-packages/default-14/</link>
+		<pubDate>Wed, 16 Jun 2021 08:41:57 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/trip-packages/default-14/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>715</wp:post_id>
+		<wp:post_date><![CDATA[2021-06-16 08:41:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-06-16 08:41:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-06-16 08:41:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-06-16 08:41:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[default-14]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[trip-packages]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[package-dates]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[package-categories]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:5:"c_ids";a:1:{i:38;i:38;}s:6:"labels";a:1:{i:38;s:5:"Adult";}s:6:"prices";a:1:{i:38;s:4:"1900";}s:12:"enabled_sale";a:1:{i:38;b:1;}s:11:"sale_prices";a:1:{i:38;s:4:"1700";}s:11:"price_types";a:1:{i:38;s:10:"per-person";}s:9:"min_paxes";a:1:{i:38;i:0;}s:13:"group-pricing";a:1:{i:38;a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[group-pricing]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:38;a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[trip_ID]]></wp:meta_key>
+		<wp:meta_value><![CDATA[271]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10257,8 +10385,8 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		<wp:post_id>722</wp:post_id>
 		<wp:post_date><![CDATA[2021-06-16 08:41:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-06-16 08:41:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-16 08:41:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-16 08:41:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-04-29 14:26:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-29 14:26:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-21]]></wp:post_name>
@@ -10274,7 +10402,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[package-categories]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:5:"c_ids";a:1:{i:38;i:38;}s:6:"labels";a:1:{i:38;s:5:"Adult";}s:6:"prices";a:1:{i:38;s:4:"1300";}s:12:"enabled_sale";a:1:{i:38;b:1;}s:11:"sale_prices";a:1:{i:38;s:4:"1200";}s:11:"price_types";a:1:{i:38;s:10:"per-person";}s:9:"min_paxes";a:1:{i:38;i:0;}s:13:"group-pricing";a:1:{i:38;a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:8:{s:5:"c_ids";a:1:{i:38;s:2:"38";}s:6:"labels";a:1:{i:38;s:5:"Adult";}s:6:"prices";a:1:{i:38;s:4:"1300";}s:13:"pricing_types";a:1:{i:38;s:10:"per-person";}s:12:"enabled_sale";a:1:{i:38;s:1:"1";}s:11:"sale_prices";a:1:{i:38;s:4:"1200";}s:9:"min_paxes";a:1:{i:38;s:0:"";}s:9:"max_paxes";a:1:{i:38;s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[group-pricing]]></wp:meta_key>
@@ -10283,6 +10411,10 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[trip_ID]]></wp:meta_key>
 		<wp:meta_value><![CDATA[281]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[enable_weekly_time_slots]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11115,6 +11247,50 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[booking_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[798]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[payment_gateway]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Payment for booking #807]]></title>
+		<link>https://thebootstrapthemes.com/previews/travel-tour/wte-payments/payment-for-booking-807/</link>
+		<pubDate>Tue, 21 May 2024 21:23:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://thebootstrapthemes.com/previews/travel-tour/?p=809</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>809</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-21 21:23:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-21 21:23:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-21 21:23:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-21 21:23:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[payment-for-booking-807]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wte-payments]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[payment_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[pending]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[billing_info]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"fname";s:3:"ffd";s:5:"lname";s:2:"vd";s:5:"email";s:13:"hh@google.com";s:7:"address";s:4:"kadk";s:4:"city";s:3:"kah";s:7:"country";s:8:"Pakistan";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[payable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:8:"currency";s:3:"USD";s:6:"amount";d:1800;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[booking_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[807]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[payment_gateway]]></wp:meta_key>
